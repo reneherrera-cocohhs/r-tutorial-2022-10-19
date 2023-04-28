@@ -1,0 +1,1001 @@
+county,county_fips,state,county_population,health_service_area_number,health_service_area,health_service_area_population,covid_inpatient_bed_utilization,covid_hospital_admissions_per_100k,covid_cases_per_100k,covid_19_community_level,date_updated
+Wilcox County,13315,Georgia,8635,197,"Sumter, GA - Crisp, GA",86868,0.2,2.3,11.58,Low,2022-05-19T07:00:00Z
+Caldwell County,29025,Missouri,9020,548,"Jackson (Kansas City), MO - Clay, MO",1310630,3.2,10.8,277.16,High,2022-06-23T07:00:00Z
+Otter Tail County,27111,Minnesota,58746,582,"Otter Tail, MN - Grant, MN",64718,6.3,12.4,156.61,Medium,2022-08-11T07:00:00Z
+Cherokee County,40021,Oklahoma,48657,445,"Muskogee, OK - Wagoner, OK",239733,3,1.7,2.06,Low,2022-04-28T07:00:00Z
+Perry County,18123,Indiana,19169,316,"Daviess (Owensboro), KY - Ohio, KY",162603,5.8,18.4,459.07,High,2022-09-01T07:00:00Z
+Hatillo Muni,72065,Puerto Rico,39218,904,Puerto Rico,3193694,3.6,8.4,487.02,Medium,2022-07-07T07:00:00Z
+Tensas Parish,22107,Louisiana,4334,435,"Adams, MS - Concordia, LA",68989,1.1,8.7,530.69,Medium,2022-09-01T07:00:00Z
+Crawford County,13079,Georgia,12404,193,"Bibb (Macon), GA - Houston, GA",456389,2.9,7.2,48.37,Low,2022-07-07T07:00:00Z
+Ouachita County,05103,Arkansas,23382,496,"Ouachita, AR - Dallas, AR",30391,0,0,17.11,Low,2022-03-24T07:00:00Z
+Polk County,12105,Florida,724777,202,"Polk (Lakeland), FL - Highlands, FL",857935,1.4,4.5,32.84,Low,2022-04-14T07:00:00Z
+Nassau County,36059,New York,1356924,83,"Suffolk, NY - Nassau, NY",2833525,4.8,6.8,58.22,Low,2022-03-03T07:00:00Z
+Manitowoc County,55071,Wisconsin,78981,355,"Sheboygan (Sheboygan), WI - Manitowoc, WI",244410,2.8,7.4,194.98,Low,2022-07-28T07:00:00Z
+Floyd County,19067,Iowa,15642,634,"Floyd, IA - Chickasaw, IA",27575,2.8,3.6,102.29,Low,2022-02-24T07:00:00Z
+Ross County,39141,Ohio,76666,337,"Scioto, OH - Ross, OH",193027,0.7,1,13.04,Low,2022-04-14T07:00:00Z
+Cuming County,31039,Nebraska,8846,542,"Douglas (Omaha), NE - Sarpy, NE",889657,5.9,11.9,192.18,Medium,2022-08-18T07:00:00Z
+St. Charles Parish,22089,Louisiana,53100,403,"Orleans (New Orleans), LA - Jefferson, LA",1010111,0.5,3,13.18,Low,2022-04-28T07:00:00Z
+York County,31185,Nebraska,13679,611,"York, NE - Polk, NE",18892,5.9,0,2003.07,Medium,2022-03-03T07:00:00Z
+Hardee County,12049,Florida,26937,202,"Polk (Lakeland), FL - Highlands, FL",857935,7.3,27.7,196.76,High,2022-07-07T07:00:00Z
+Avery County,37011,North Carolina,17557,240,"Yancey, NC - Avery, NC",50590,2.5,0,148.09,Low,2022-08-18T07:00:00Z
+Dubois County,18037,Indiana,42736,394,"Dubois, IN",42736,0.2,2.3,21.06,Low,2022-05-05T07:00:00Z
+Stevens County,27149,Minnesota,9805,608,"Douglas, MN - Pope, MN",59195,2.3,13.5,112.19,Medium,2022-07-21T07:00:00Z
+Arthur County,31005,Nebraska,463,593,"Lincoln, NE - Keith, NE",47478,3.2,6.3,0,Low,2022-04-21T07:00:00Z
+Union County,17181,Illinois,16653,563,"Cape Girardeau, MO - Butler, MO",310071,0.1,0,144.12,Low,2022-05-12T07:00:00Z
+Lake County,39085,Ohio,230149,288,"Cuyahoga (Cleveland), OH - Lake, OH",1656111,1.6,4.2,58.22,Low,2022-04-21T07:00:00Z
+Jackson Parish,22049,Louisiana,15744,439,"Lincoln, LA - Union, LA",97835,0.2,1,114.33,Low,2022-03-17T07:00:00Z
+Greenville County,45045,South Carolina,523542,182,"Greenville (Greenville), SC - Anderson, SC",932530,4.2,13.3,260.15,High,2022-07-21T07:00:00Z
+Franklin County,20059,Kansas,25544,624,"Johnson (Overland Park), KS - Douglas, KS",792299,0.8,3,0,Low,2022-03-31T07:00:00Z
+Pine County,27115,Minnesota,29579,289,"St. Louis (Duluth), MN - Itasca, MN",381133,3.2,7.9,240.04,Medium,2022-05-12T07:00:00Z
+Iron County,49021,Utah,54839,755,"Iron, UT - Beaver, UT",61549,1.8,13,114.88,Medium,2022-07-28T07:00:00Z
+Bosque County,48035,Texas,18685,462,"McLennan (Waco), TX - Hill, TX",361152,3.9,8.9,165.91,Low,2022-07-14T07:00:00Z
+Rock County,31149,Nebraska,1357,559,"Holt, NE - Brown, NE",15185,2.7,6.6,73.69,Low,2022-08-25T07:00:00Z
+Fillmore County,27045,Minnesota,21067,552,"Olmsted (Rochester), MN - Winona, MN",358274,3.1,11.2,147.15,Medium,2022-03-03T07:00:00Z
+Jefferson County,01073,Alabama,658573,150,"Jefferson (Birmingham), AL - Shelby, AL",1237724,4.4,14.8,304.75,High,2022-09-01T07:00:00Z
+Randall County,48381,Texas,137713,405,"Potter (Amarillo), TX - Randall, TX",350272,0.4,0.3,8.71,Low,2022-05-26T07:00:00Z
+Osceola County,12097,Florida,375751,257,"Osceola, FL",375751,8,21.3,382.17,High,2022-08-11T07:00:00Z
+Letcher County,21133,Kentucky,21553,123,"Letcher, KY",21553,11.9,4.6,167.03,Medium,2022-03-10T07:00:00Z
+Preble County,39135,Ohio,40882,295,"Montgomery (Dayton), OH - Greene, OH",792619,0.8,3.2,4.89,Low,2022-03-24T07:00:00Z
+District of Columbia,11001,District of Columbia,705749,61,"Montgomery, MD - Prince Georges, MD",2942531,2.7,2.5,0,Low,2022-03-17T07:00:00Z
+Valley County,30105,Montana,7396,779,"Roosevelt, MT - Valley, MT",18400,0,0,229.85,Medium,2022-08-04T07:00:00Z
+Story County,19169,Iowa,97117,606,"Story, IA - Boone, IA",167532,1.8,4.8,175.05,Low,2022-03-03T07:00:00Z
+Broomfield County,08014,Colorado,70465,795,"Boulder, CO - Broomfield, CO",396661,0.5,1.3,59.6,Low,2022-04-07T07:00:00Z
+Noxubee County,28103,Mississippi,10417,461,"Lowndes, MS - Clay, MS",102133,0.3,0,9.6,Low,2022-04-21T07:00:00Z
+Hamilton County,19079,Iowa,14773,606,"Story, IA - Boone, IA",167532,2.9,13.1,81.23,Medium,2022-08-04T07:00:00Z
+Lewis and Clark County,30049,Montana,69432,721,"Lewis and Clark, MT - Jefferson, MT",87890,3.2,17.1,234.76,High,2022-06-02T07:00:00Z
+Montgomery County,05097,Arkansas,8986,448,"Garland, AR - Hot Spring, AR",175181,4,13.7,55.64,Medium,2022-08-18T07:00:00Z
+Barceloneta Muni,72017,Puerto Rico,23727,904,Puerto Rico,3193694,3.6,8.4,337.17,Medium,2022-07-07T07:00:00Z
+Gilmer County,13123,Georgia,31369,173,"Bradley, TN - Gilmer, GA",182499,5.3,11.5,239.09,High,2022-07-28T07:00:00Z
+Madison County,17119,Illinois,262966,299,"Madison (Alton), IL - Jersey, IL",305904,3.7,7.2,162.38,Low,2022-08-25T07:00:00Z
+Edwards County,17047,Illinois,6395,351,"Richland, IL - Clay, IL",44702,0.6,0.0,281.47,Medium,2022-09-01T07:00:00Z
+Greene County,19073,Iowa,8888,617,"Guthrie, IA - Greene, IA",19577,0,0,56.26,Low,2022-04-14T07:00:00Z
+Rowan County,37159,North Carolina,142088,235,"Cabarrus (Concord), NC - Rowan, NC",421347,2.8,5.5,82.34,Low,2022-05-19T07:00:00Z
+Washington County,13303,Georgia,20374,250,"Washington, GA - Jefferson, GA",35736,0.4,2.8,112.89,Low,2022-06-30T07:00:00Z
+Canadian County,40017,Oklahoma,148306,417,"Oklahoma (Oklahoma City), OK - Canadian, OK",1101220,7.9,14.7,143.62,Medium,2022-03-03T07:00:00Z
+Clinton County,36019,New York,80485,81,"Clinton, NY - Franklin, NY",167392,8.1,10.2,90.7,Medium,2022-03-24T07:00:00Z
+Costilla County,08023,Colorado,3887,731,"Alamosa, CO - Rio Grande, CO",47185,0.7,10.6,102.91,Medium,2022-06-16T07:00:00Z
+Placer County,06061,California,398329,709,"Sacramento (Sacramento), CA - Placer, CA",2363730,3,5.5,109.96,Low,2022-05-12T07:00:00Z
+Indian River County,12061,Florida,159923,237,"Brevard (Palm Bay), FL - Indian River, FL",761865,4.6,3.5,80.04,Low,2022-03-10T07:00:00Z
+Frontier County,31063,Nebraska,2627,570,"Buffalo, NE - Dawson, NE",90346,1.1,4.4,38.07,Low,2022-04-28T07:00:00Z
+Richland County,55103,Wisconsin,17252,301,"Dane (Madison), WI - Sauk, WI",776612,1.8,2.8,52.17,Low,2022-03-31T07:00:00Z
+Androscoggin County,23001,Maine,108277,95,"Androscoggin (Lewiston), ME - Oxford, ME",196451,2.4,5.6,60.03,Low,2022-04-07T07:00:00Z
+Roseau County,27135,Minnesota,15165,631,"Roseau, MN - Lake of the Woods, MN",18905,0,0,19.78,Low,2022-04-14T07:00:00Z
+Coleman County,48083,Texas,8175,468,"Brown, TX - Coleman, TX",56967,0,0,85.63,Low,2022-04-14T07:00:00Z
+Richland County,17159,Illinois,15513,351,"Richland, IL - Clay, IL",44702,0.2,0,12.89,Low,2022-05-05T07:00:00Z
+Lamoille County,50015,Vermont,25362,103,"Caledonia, VT - Orleans, VT",82392,3.3,7.3,90.69,Low,2022-06-09T07:00:00Z
+Bergen County,34003,New Jersey,932202,36,"Bergen, NJ - Hudson (Jersey City), NJ",2432208,4.2,11.6,313.56,High,2022-07-14T07:00:00Z
+Jefferson County,19101,Iowa,18295,589,"Wapello, IA - Mahaska, IA",100356,2.8,5,54.66,Low,2022-03-10T07:00:00Z
+Sandusky County,39143,Ohio,58518,366,"Lorain (Lorain), OH - Erie, OH",500883,2.4,7.2,99.11,Low,2022-07-07T07:00:00Z
+Cumberland County,47035,Tennessee,60520,223,"Cumberland, TN - Fentress, TN",94107,6.7,0,277.59,Medium,2022-07-21T07:00:00Z
+Robertson County,48395,Texas,17074,464,"Brazos (Bryan), TX - Washington, TX",329490,3.7,11.8,117.14,Medium,2022-08-25T07:00:00Z
+Coal County,40029,Oklahoma,5495,478,"Pontotoc, OK - Seminole, OK",81316,0.4,3.7,18.2,Low,2022-05-12T07:00:00Z
+Johnson County,05071,Arkansas,26578,522,"Johnson, AR",26578,2.9,15.1,158.03,Medium,2022-03-17T07:00:00Z
+Delaware County,39041,Ohio,209177,281,"Franklin (Columbus), OH - Delaware, OH",1657646,3.3,11,156.81,Medium,2022-07-14T07:00:00Z
+Ottawa County,20143,Kansas,5704,569,"Saline, KS - Ellsworth, KS",68992,0.6,5.8,35.06,Low,2022-05-19T07:00:00Z
+Leflore County,28083,Mississippi,28183,487,"Bolivar, MS - Leflore, MS",91985,2.4,9.8,340.63,Medium,2022-08-25T07:00:00Z
+Hancock County,13141,Georgia,8457,201,"Baldwin, GA - Putnam, GA",75466,0,1.3,59.12,Low,2022-05-19T07:00:00Z
+Leelanau County,26089,Michigan,21761,271,"Grand Traverse, MI - Manistee, MI",198535,4.4,14.1,68.93,Medium,2022-08-11T07:00:00Z
+Gila County,04007,Arizona,54018,699,"Maricopa (Phoenix), AZ - Pinal, AZ",5380796,2.4,6.5,98.12,Low,2022-06-02T07:00:00Z
+Faribault County,27043,Minnesota,13653,646,"Freeborn, MN - Faribault, MN",43934,5.1,11.4,131.84,Medium,2022-07-21T07:00:00Z
+Passaic County,34031,New Jersey,501826,36,"Bergen, NJ - Hudson (Jersey City), NJ",2432208,2.2,6.1,194.09,Low,2022-05-05T07:00:00Z
+Nemaha County,31127,Nebraska,6972,687,"Nemaha, NE",6972,0,0,43.03,Low,2022-05-05T07:00:00Z
+Bond County,17005,Illinois,16426,299,"Madison (Alton), IL - Jersey, IL",305904,2.5,5.6,103.49,Low,2022-06-23T07:00:00Z
+Cass County,29037,Missouri,105780,548,"Jackson (Kansas City), MO - Clay, MO",1310630,1.7,5.3,78.46,Low,2022-05-12T07:00:00Z
+Prentiss County,28117,Mississippi,25126,418,"Lee, MS - Monroe, MS",186307,2.6,12.3,449.73,High,2022-08-18T07:00:00Z
+Boone County,31011,Nebraska,5192,651,"Platte, NE - Boone, NE",42181,0.5,2.4,77.04,Low,2022-07-28T07:00:00Z
+Habersham County,13137,Georgia,45328,157,"Hall, GA - Habersham, GA",396067,NA,0,41.92,Low,2022-03-10T07:00:00Z
+Cross County,05037,Arkansas,16419,499,"Crittenden (West Memphis), AR - St. Francis, AR",98225,1.8,4.1,188.81,Low,2022-07-14T07:00:00Z
+Upson County,13293,Georgia,26320,269,"Upson, GA - Lamar, GA",64359,9.2,15.5,292.55,High,2022-09-01T07:00:00Z
+Hendricks County,18063,Indiana,170311,275,"Marion (Indianapolis), IN - Johnson, IN",1462435,2.7,7.9,150.9,Low,2022-07-14T07:00:00Z
+Oxford County,23017,Maine,57975,95,"Androscoggin (Lewiston), ME - Oxford, ME",196451,4.6,12.7,270.81,High,2022-05-19T07:00:00Z
+Fremont County,19071,Iowa,6960,644,"Page, IA - Fremont, IA",28188,0,0,0,Low,2022-04-28T07:00:00Z
+Gallatin County,17059,Illinois,4828,384,"Saline, IL - Gallatin, IL",36317,0.2,0,0,Low,2022-04-14T07:00:00Z
+Weber County,49057,Utah,260213,744,"Davis, UT - Weber (Ogden), UT",686347,1.9,7.3,0,Low,2022-06-02T07:00:00Z
+Jessamine County,21113,Kentucky,54115,18,"Fayette (Lexington-Fayette), KY - Jessamine, KY",591673,2.7,7.1,9.24,Low,2022-04-07T07:00:00Z
+Meagher County,30059,Montana,1862,778,"Wheatland, MT - Meagher, MT",3988,0,0,214.82,Medium,2022-06-23T07:00:00Z
+Green Lake County,55047,Wisconsin,18913,306,"Winnebago (Oshkosh), WI - Fond du Lac, WI",406505,4.2,4.7,227.36,Medium,2022-07-14T07:00:00Z
+Mitchell County,48335,Texas,8545,503,"Nolan, TX - Mitchell, TX",27089,0,0,0,Low,2022-04-21T07:00:00Z
+Carbon County,30009,Montana,10725,691,"Yellowstone (Billings), MT - Big Horn, MT",210073,0.7,4.8,83.92,Low,2022-05-19T07:00:00Z
+Logan County,21141,Kentucky,27102,29,"Warren, KY - Logan, KY",224914,1.8,4,125.45,Low,2022-06-09T07:00:00Z
+Morgan County,18109,Indiana,70489,275,"Marion (Indianapolis), IN - Johnson, IN",1462435,1.1,2.1,8.51,Low,2022-04-07T07:00:00Z
+Staunton City,51790,Virginia,24932,97,"Augusta, VA - Staunton City, VA",161807,0.9,1.9,148.4,Low,2022-05-05T07:00:00Z
+Kent County,10001,Delaware,180786,3,"Sussex, DE - Kent, DE",596512,6,12.6,268.27,High,2022-06-16T07:00:00Z
+Morrow County,41049,Oregon,11603,717,"Umatilla, OR - Walla Walla, WA",154298,0.4,1.9,43.09,Low,2022-04-21T07:00:00Z
+Rockingham County,51165,Virginia,81948,63,"Rockingham, VA - Harrisonburg City, VA",165835,3,7.2,112.27,Low,2022-07-07T07:00:00Z
+Hocking County,39073,Ohio,28264,368,"Fairfield (Lancaster), OH - Athens, OH",264250,6.1,9.5,187.52,Low,2022-02-24T07:00:00Z
+Jackson County,39079,Ohio,32413,283,"Jackson, OH - Gallia, OH",111734,11.9,21.5,441.18,High,2022-08-04T07:00:00Z
+Houston County,13153,Georgia,157863,193,"Bibb (Macon), GA - Houston, GA",456389,5.2,14.9,394.65,High,2022-07-28T07:00:00Z
+Love County,40085,Oklahoma,10253,474,"Carter, OK - Marshall, OK",86380,1,1.2,48.77,Low,2022-06-09T07:00:00Z
+Newberry County,45071,South Carolina,38440,160,"Richland (Columbia), SC - Lexington, SC",775296,1.5,4,20.81,Low,2022-03-24T07:00:00Z
+Coal County,40029,Oklahoma,5495,478,"Pontotoc, OK - Seminole, OK",81316,4.8,22.1,309.37,High,2022-07-21T07:00:00Z
+Henry County,18065,Indiana,47972,362,"Hancock, IN - Henry (New Castle), IN",126140,6.1,13.5,287.67,High,2022-08-11T07:00:00Z
+Spink County,46115,South Dakota,6376,572,"Brown, SD - Spink, SD",64081,0,3.1,15.68,Low,2022-04-07T07:00:00Z
+Genesee County,26049,Michigan,405813,328,"Genesee (Flint), MI - Lapeer, MI",493420,1,2.4,47.56,Low,2022-04-14T07:00:00Z
+Kenedy County,48261,Texas,404,437,"Nueces (Corpus Christi), TX - San Patricio, TX",554557,2.8,8.3,0,Low,2022-05-05T07:00:00Z
+St. Johns County,12109,Florida,264672,251,"St. Johns (St. Augustine), FL - Putnam, FL",339193,5.1,9.4,165.11,Low,2022-09-01T07:00:00Z
+Dickinson County,26043,Michigan,25239,315,"Marinette, WI - Dickinson, MI",103730,5.8,9.6,67.36,Low,2022-03-03T07:00:00Z
+Alfalfa County,40003,Oklahoma,5702,429,"Garfield (Enid), OK - Kingfisher, OK",112707,1.8,7.1,17.54,Low,2022-08-04T07:00:00Z
+Sawyer County,55113,Wisconsin,16558,357,"Ashland, WI - Sawyer, WI",60507,2.4,6.6,217.42,Medium,2022-06-30T07:00:00Z
+St. Helena Parish,22091,Louisiana,10132,423,"Tangipahoa, LA - St. Helena, LA",144890,1.5,6.9,187.52,Low,2022-09-01T07:00:00Z
+Amite County,28005,Mississippi,12297,477,"Pike, MS - Marion, MS",90444,6.9,22.1,260.23,High,2022-07-21T07:00:00Z
+Crockett County,47033,Tennessee,14230,188,"Madison (Jackson), TN - Gibson, TN",260778,1.8,2.3,91.36,Low,2022-06-02T07:00:00Z
+Camas County,16025,Idaho,1106,808,"Blaine, ID - Camas, ID",24127,0.6,4.1,90.42,Low,2022-08-11T07:00:00Z
+Solano County,06095,California,447643,746,"Solano (Vallejo), CA - Napa, CA",649773,8.5,18.2,253.55,High,2022-07-28T07:00:00Z
+Fayette County,54019,West Virginia,42406,60,"Raleigh, WV - Fayette, WV",148734,6.4,12.8,146.21,Medium,2022-03-17T07:00:00Z
+Washtenaw County,26161,Michigan,367601,274,"Wayne (Detroit), MI - Oakland, MI",4440495,4.1,10,313.66,High,2022-06-09T07:00:00Z
+Richmond County,13245,Georgia,202518,152,"Richmond (South Augusta), GA - Aiken, SC",648284,5.4,12,336.27,High,2022-08-04T07:00:00Z
+Hart County,13147,Georgia,26205,216,"Stephens, GA - Hart, GA",75479,2.4,10.6,57.24,Medium,2022-07-07T07:00:00Z
+Warren County,28149,Mississippi,45381,431,"Warren, MS - Madison, LA",65320,0.6,0,13.22,Low,2022-04-07T07:00:00Z
+Platte County,29165,Missouri,104418,548,"Jackson (Kansas City), MO - Clay, MO",1310630,1.7,5.3,47.88,Low,2022-05-12T07:00:00Z
+Arroyo Muni,72015,Puerto Rico,17238,904,Puerto Rico,3193694,3.9,6.3,539.51,Medium,2022-07-28T07:00:00Z
+Hill County,30041,Montana,16484,712,"Hill, MT - Blaine, MT",29456,0.7,6.8,121.33,Low,2022-07-14T07:00:00Z
+Harvey County,20079,Kansas,34429,576,"Sedgwick (Wichita), KS - Butler, KS",687010,2.3,10.9,278.83,High,2022-08-11T07:00:00Z
+Washington County,44009,Rhode Island,125577,20,"Providence (Providence), RI - New London, CT",1242485,4,5.9,245.27,Medium,2022-06-09T07:00:00Z
+Coamo Muni,72043,Puerto Rico,38336,904,Puerto Rico,3193694,0.6,2.1,200.86,Medium,2022-04-14T07:00:00Z
+Cumberland County,47035,Tennessee,60520,223,"Cumberland, TN - Fentress, TN",94107,5.7,0,194.98,Low,2022-07-07T07:00:00Z
+Elko County,32007,Nevada,52778,720,"Elko, NV - Lander, NV",60339,8,9.9,164.84,Low,2022-07-14T07:00:00Z
+Calhoun County,28013,Mississippi,14361,459,"Lafayette, MS - Calhoun, MS",80488,3.6,8.7,208.9,Medium,2022-06-23T07:00:00Z
+Warren County,37185,North Carolina,19731,170,"Durham (Durham), NC - Granville, NC",485687,8.9,18.7,248.34,High,2022-03-03T07:00:00Z
+Addison County,50001,Vermont,36777,49,"Chittenden (Burlington), VT - Franklin, VT",257188,1.3,5.1,111.48,Low,2022-07-21T07:00:00Z
+Lee County,48287,Texas,17239,425,"Travis (Austin), TX - Williamson, TX",2040417,1.4,2.1,29,Low,2022-04-07T07:00:00Z
+Morgan County,29141,Missouri,20627,656,"Pettis, MO - Saline, MO",105170,2,1.9,67.87,Low,2022-06-02T07:00:00Z
+Bell County,48027,Texas,362924,452,"Bell (Killeen), TX - Coryell, TX",485126,0.7,1.9,13.5,Low,2022-04-21T07:00:00Z
+Roane County,47145,Tennessee,53382,226,"Anderson (Oak Ridge), TN - Roane, TN",224772,6.2,9.3,286.61,Medium,2022-08-18T07:00:00Z
+Perry County,29157,Missouri,19136,563,"Cape Girardeau, MO - Butler, MO",310071,3.7,3.5,172.45,Low,2022-03-10T07:00:00Z
+Fulton County,39051,Ohio,42126,276,"Lucas (Toledo), OH - Monroe, MI",792316,4.7,12,163.79,Medium,2022-06-23T07:00:00Z
+Dickinson County,26043,Michigan,25239,315,"Marinette, WI - Dickinson, MI",103730,6.2,6.7,273.39,Medium,2022-07-28T07:00:00Z
+Monroe County,01099,Alabama,20733,161,"Mobile (Mobile), AL - Baldwin, AL",697125,0.3,2.4,0,Low,2022-05-19T07:00:00Z
+Jones County,28067,Mississippi,68098,455,"Jones, MS - Wayne, MS",120580,1.4,3.3,41.12,Low,2022-05-19T07:00:00Z
+Perkins County,46105,South Dakota,2865,640,"Perkins, SD - Bowman, ND",12652,0,0,0,Low,2022-05-19T07:00:00Z
+Webster Parish,22119,Louisiana,38340,416,"Caddo (Shreveport), LA - Bossier, LA",503530,1.1,9.7,83.46,Low,2022-06-02T07:00:00Z
+Covington County,01039,Alabama,37049,171,"Montgomery (Montgomery), AL - Autauga, AL",386117,8,15.5,99.87,Medium,2022-02-24T07:00:00Z
+Clay County,13061,Georgia,2834,144,"Dougherty (Albany), GA - Lee, GA",175755,14.5,24.5,282.29,High,2022-07-28T07:00:00Z
+Schenectady County,36093,New York,155299,88,"Saratoga, NY - Schenectady (Schenectady), NY",514726,4.3,7.6,174.5,Low,2022-07-28T07:00:00Z
+Nacogdoches County,48347,Texas,65204,447,"Nacogdoches, TX - Shelby, TX",109257,11,9.2,165.63,Medium,2022-02-24T07:00:00Z
+Lincoln County,27081,Minnesota,5639,609,"Lyon, MN - Lincoln, MN",31113,0,0,17.73,Low,2022-04-28T07:00:00Z
+Livingston County,26093,Michigan,191995,274,"Wayne (Detroit), MI - Oakland, MI",4440495,4.8,13.3,218.23,High,2022-08-18T07:00:00Z
+Taylor County,12123,Florida,21569,183,"Leon (Tallahassee), FL - Gadsden, FL",447768,2.9,10.9,264.27,High,2022-09-01T07:00:00Z
+Richmond County,36085,New York,476143,94,"Kings (New York), NY - Queens, NY",8336817,6.4,12.9,404.29,High,2022-07-28T07:00:00Z
+La Paz County,04012,Arizona,21108,787,"Yuma, AZ - La Paz, AZ",234895,4.2,16.6,213.19,High,2022-06-30T07:00:00Z
+Dodge County,31053,Nebraska,36565,542,"Douglas (Omaha), NE - Sarpy, NE",889657,3,4.4,84.78,Low,2022-03-31T07:00:00Z
+Pinellas County,12103,Florida,974996,227,"Hillsborough (Tampa), FL - Pinellas, FL",3194831,3.3,14,246.36,High,2022-05-26T07:00:00Z
+Somervell County,48425,Texas,9128,434,"Tarrant (Fort Worth), TX - Johnson, TX",2491981,6.4,12.8,87.64,Medium,2022-03-03T07:00:00Z
+Glascock County,13125,Georgia,2971,152,"Richmond (South Augusta), GA - Aiken, SC",648284,5.2,10.3,269.27,High,2022-08-25T07:00:00Z
+Stoddard County,29207,Missouri,29025,563,"Cape Girardeau, MO - Butler, MO",310071,0.2,0.3,24.12,Low,2022-04-28T07:00:00Z
+Calhoun County,48057,Texas,21290,433,"Victoria (Victoria), TX - Calhoun, TX",183054,1.2,1.6,61.06,Low,2022-03-31T07:00:00Z
+Cherokee County,01019,Alabama,26196,224,"Etowah (Gadsden), AL - Marshall, AL",296751,0.4,1.7,30.54,Low,2022-05-12T07:00:00Z
+Pleasants County,54073,West Virginia,7460,34,"Wood (Parkersburg), WV - Washington, OH",215637,3.6,7.4,13.4,Low,2022-03-31T07:00:00Z
+Scotland County,29199,Missouri,4902,566,"Adair, MO - Sullivan, MO",49649,2,6,122.4,Low,2022-07-14T07:00:00Z
+Perry County,17145,Illinois,20916,331,"Williamson, IL - Jackson, IL",182732,8.6,23.5,305.99,High,2022-02-24T07:00:00Z
+Adair County,29001,Missouri,25343,566,"Adair, MO - Sullivan, MO",49649,0,0,23.68,Low,2022-03-24T07:00:00Z
+Wichita County,48485,Texas,132230,420,"Wichita (Wichita Falls), TX - Montague, TX",197756,5,10.6,238.98,High,2022-07-28T07:00:00Z
+United States Virgin Islands,78000,United States Virgin Islands,106290,905,United States Virgin Islands,106290,2.4,0.9,78.09,Low,2022-03-03T07:00:00Z
+Island County,53029,Washington,85141,736,"King (Seattle), WA - Snohomish, WA",3578266,5.7,6.2,91.61,Low,2022-08-18T07:00:00Z
+Decatur County,18031,Indiana,26559,313,"Bartholomew, IN - Jackson, IN",182304,5.8,20.3,289.92,High,2022-07-28T07:00:00Z
+Johnson County,47091,Tennessee,17788,194,"Watauga, NC - Ashe, NC",101168,2.4,3,123.68,Low,2022-06-30T07:00:00Z
+Benzie County,26019,Michigan,17766,271,"Grand Traverse, MI - Manistee, MI",198535,4.8,18.6,135.09,Medium,2022-05-26T07:00:00Z
+Taney County,29213,Missouri,55928,676,"Taney, MO",55928,8.8,17.9,155.56,Medium,2022-09-01T07:00:00Z
+Schley County,13249,Georgia,5257,166,"Muscogee (Columbus), GA - Russell, AL",328912,2.9,5.2,19.02,Low,2022-06-02T07:00:00Z
+Columbia County,55021,Wisconsin,57532,301,"Dane (Madison), WI - Sauk, WI",776612,1.9,5.9,222.48,Medium,2022-05-05T07:00:00Z
+Wichita County,20203,Kansas,2119,643,"Wichita, KS - Greeley, KS",3351,1.0,0.0,235.96,Medium,2022-09-01T07:00:00Z
+Windham County,50025,Vermont,42222,90,"Cheshire, NH - Windham, VT",118307,5.2,2.5,149.21,Low,2022-07-21T07:00:00Z
+Kauai County,15007,Hawaii,72293,822,"Kauai, HI",72293,4.8,8.3,157.69,Low,2022-09-01T07:00:00Z
+Newport County,44005,Rhode Island,82082,68,"Bristol (New Bedford), MA - Newport, RI",647299,3.3,7.4,104.77,Low,2022-07-14T07:00:00Z
+Stanislaus County,06099,California,550660,737,"Stanislaus (Modesto), CA - Merced, CA",900021,6.9,13.3,229.0,High,2022-09-01T07:00:00Z
+Screven County,13251,Georgia,13966,222,"Bulloch, GA - Emanuel, GA",127023,3,1.6,21.48,Low,2022-03-10T07:00:00Z
+Grayson County,48181,Texas,136212,436,"Grayson (Sherman), TX - Bryan, OK",233479,2.9,3,16.15,Low,2022-03-17T07:00:00Z
+Covington City,51580,Virginia,5538,30,"Greenbrier, WV - Alleghany Cnty and Clifton Forge Cty, VA",72482,2.7,5.5,126.4,Low,2022-06-16T07:00:00Z
+Coos County,41011,Oregon,64487,738,"Coos, OR - Del Norte, CA",115224,6.2,13.9,249.66,High,2022-08-11T07:00:00Z
+Dunn County,55033,Wisconsin,45368,298,"Eau Claire (Eau Claire), WI - Chippewa, WI",234990,5.5,11.1,176.34,Medium,2022-08-04T07:00:00Z
+Prairie County,30079,Montana,1077,714,"Custer, MT - Fallon, MT",19517,0.3,0,92.85,Low,2022-04-14T07:00:00Z
+Bay County,26017,Michigan,103126,342,"Bay (Bay City), MI - Iosco, MI",172374,2.9,9.3,132.85,Low,2022-07-28T07:00:00Z
+Guernsey County,39059,Ohio,38875,377,"Muskingum, OH - Guernsey, OH",226756,6.4,10.6,187.78,Medium,2022-06-30T07:00:00Z
+Iberville Parish,22047,Louisiana,32511,419,"East Baton Rouge (Baton Rouge), LA - Livingston, LA",822861,3.2,7.7,513.67,Medium,2022-07-14T07:00:00Z
+Starke County,18149,Indiana,22995,378,"La Porte, IN - Starke, IN",132883,1.3,0.8,56.53,Low,2022-03-10T07:00:00Z
+Pacific County,53049,Washington,22471,758,"Thurston (Olympia), WA - Lewis, WA",535543,8.5,11,146.86,Medium,2022-07-07T07:00:00Z
+Howard County,31093,Nebraska,6445,555,"Hall, NE - Hamilton, NE",87233,2.7,12.6,15.52,Medium,2022-07-21T07:00:00Z
+Mercer County,54055,West Virginia,58758,39,"Mercer, WV - Tazewell, VA",144261,4.1,9,246.77,Medium,2022-06-16T07:00:00Z
+Aleutians West Census Area,02016,Alaska,5634,820,"Anchorage (Anchorage), AK - Matanuska-Susitna Borough, AK",547697,3.3,8.8,283.99,Medium,2022-06-23T07:00:00Z
+Adams County,55001,Wisconsin,20220,391,"Juneau, WI - Adams, WI",46907,0.8,4.3,118.69,Low,2022-06-02T07:00:00Z
+Roosevelt County,30085,Montana,11004,779,"Roosevelt, MT - Valley, MT",18400,1.1,38,245.37,High,2022-03-10T07:00:00Z
+Grant County,53025,Washington,97733,747,"Grant, WA - Chelan, WA",260605,2.2,4.6,97.2,Low,2022-05-26T07:00:00Z
+Berkshire County,25003,Massachusetts,124944,112,"Berkshire (Pittsfield), MA - Columbia, NY",231593,4.8,8.6,68.83,Low,2022-07-14T07:00:00Z
+Young County,48503,Texas,18010,420,"Wichita (Wichita Falls), TX - Montague, TX",197756,0.4,0.5,22.21,Low,2022-06-02T07:00:00Z
+Freestone County,48161,Texas,19717,489,"Navarro, TX - Freestone, TX",69830,1.3,2.9,142.01,Low,2022-07-28T07:00:00Z
+Plymouth County,19149,Iowa,25177,560,"Woodbury (Sioux City), IA - Plymouth, IA",207500,0.6,2.9,19.86,Low,2022-05-12T07:00:00Z
+Walton County,13297,Georgia,94593,153,"Fulton (Atlanta), GA - DeKalb, GA",3830463,4.8,8.9,137.43,Low,2022-06-23T07:00:00Z
+Barrow County,13013,Georgia,83240,164,"Clarke (Athens), GA - Barrow, GA",407567,2,3.2,118.93,Low,2022-06-09T07:00:00Z
+Arroyo Muni,72015,Puerto Rico,17238,904,Puerto Rico,3193694,2.8,7.6,1583.71,Medium,2022-05-12T07:00:00Z
+Ottawa County,40115,Oklahoma,31127,414,"Tulsa (Tulsa), OK - Rogers, OK",901902,1,2.3,6.43,Low,2022-04-14T07:00:00Z
+Jim Wells County,48249,Texas,40482,437,"Nueces (Corpus Christi), TX - San Patricio, TX",554557,8,12.4,476.76,High,2022-07-07T07:00:00Z
+El Paso County,08041,Colorado,720403,754,"El Paso (Colorado Springs), CO - Teller, CO",760420,0.7,0.7,24.85,Low,2022-04-07T07:00:00Z
+Bent County,08011,Colorado,5577,745,"Otero, CO - Prowers, CO",43494,0.5,2.3,35.86,Low,2022-05-12T07:00:00Z
+Crawford County,29055,Missouri,23920,581,"Cole, MO - Callaway, MO",224177,1.1,1.3,33.44,Low,2022-05-12T07:00:00Z
+Kinney County,48271,Texas,3667,516,"Maverick, TX - Val Verde, TX",111414,3.8,6.3,136.35,Low,2022-08-11T07:00:00Z
+Passaic County,34031,New Jersey,501826,36,"Bergen, NJ - Hudson (Jersey City), NJ",2432208,1.8,3.7,100.03,Low,2022-04-07T07:00:00Z
+Bedford County,42009,Pennsylvania,47888,57,"Cambria, PA - Blair (Altoona), PA",373356,3.1,7.2,45.94,Low,2022-06-30T07:00:00Z
+Lee County,13177,Georgia,29992,144,"Dougherty (Albany), GA - Lee, GA",175755,1.1,0,23.34,Low,2022-04-28T07:00:00Z
+Gregory County,46053,South Dakota,4185,595,"Todd, SD - Tripp, SD",23783,0,0,23.89,Low,2022-06-09T07:00:00Z
+Stark County,38089,North Dakota,31489,605,"Stark, ND - Dunn, ND",38602,3.4,5.2,12.7,Low,2022-05-05T07:00:00Z
+Loíza Muni,72087,Puerto Rico,24553,904,Puerto Rico,3193694,1.6,2.4,24.44,Low,2022-02-24T07:00:00Z
+Crawford County,19047,Iowa,16820,681,"Crawford, IA",16820,0,0,35.67,Low,2022-04-07T07:00:00Z
+Clay County,18021,Indiana,26225,311,"Vigo (Terre Haute), IN - Clay, IN",201808,0.7,1,7.63,Low,2022-03-31T07:00:00Z
+Wells County,18179,Indiana,28296,332,"Huntington, IN - Adams, IN",121029,4.3,7.4,173.17,Low,2022-08-25T07:00:00Z
+Knox County,21121,Kentucky,31145,51,"Laurel, KY - Whitley, KY",148123,5.2,23.0,831.59,High,2022-08-25T07:00:00Z
+Galveston County,48167,Texas,342139,532,"Galveston, TX",342139,4.6,8.8,86.81,Low,2022-03-17T07:00:00Z
+Freeborn County,27047,Minnesota,30281,646,"Freeborn, MN - Faribault, MN",43934,4.7,11.4,112.28,Medium,2022-05-05T07:00:00Z
+Pulaski County,17153,Illinois,5335,563,"Cape Girardeau, MO - Butler, MO",310071,3.9,13.5,356.14,High,2022-07-14T07:00:00Z
+DeKalb County,47041,Tennessee,20490,211,"Rutherford (Murfreesboro), TN - Warren, TN",414602,6.8,5.8,244.02,Medium,2022-08-04T07:00:00Z
+Cook County,13075,Georgia,17270,180,"Lowndes, GA - Brooks, GA",183959,0.5,2.2,5.79,Low,2022-04-28T07:00:00Z
+Washington County,39167,Ohio,59911,34,"Wood (Parkersburg), WV - Washington, OH",215637,3,10.2,90.13,Medium,2022-06-16T07:00:00Z
+Martin County,18101,Indiana,10255,310,"Knox, IN - Daviess, IN",126934,0.5,1.6,9.75,Low,2022-03-24T07:00:00Z
+Morris County,34027,New Jersey,491845,87,"Morris (Parsippany-Troy Hills Township), NJ - Sussex, NJ",632333,2.7,11.1,156.55,Medium,2022-08-25T07:00:00Z
+Roane County,54087,West Virginia,13688,34,"Wood (Parkersburg), WV - Washington, OH",215637,0.7,2.8,21.92,Low,2022-04-28T07:00:00Z
+Summit County,08117,Colorado,31011,688,"Denver (Denver), CO - Jefferson, CO",2943519,0.8,2.3,125.76,Low,2022-04-21T07:00:00Z
+Douglas County,41019,Oregon,110980,782,"Lane (Eugene), OR - Douglas, OR",493047,4.8,5.3,69.38,Low,2022-03-17T07:00:00Z
+Orleans County,36073,New York,40352,54,"Erie (Buffalo), NY - Monroe, NY",2070158,4.1,9.8,84.26,Low,2022-08-18T07:00:00Z
+Alleghany County,37005,North Carolina,11137,73,"Carroll, VA - Grayson, VA",62825,2,17.5,242.44,High,2022-06-02T07:00:00Z
+Winneshiek County,19191,Iowa,19991,395,"Winneshiek, IA",19991,3.4,15,110.05,Medium,2022-05-26T07:00:00Z
+Upshur County,48459,Texas,41753,454,"Gregg (Longview), TX - Rusk, TX",243298,2.1,0.4,141.31,Low,2022-03-17T07:00:00Z
+Beaufort County,45013,South Carolina,192122,143,"Chatham (Savannah), GA - Beaufort, SC",732482,3.9,8.6,182.7,Low,2022-06-30T07:00:00Z
+Grant County,55043,Wisconsin,51439,301,"Dane (Madison), WI - Sauk, WI",776612,4.6,7.5,231.34,Medium,2022-07-14T07:00:00Z
+Corson County,46031,South Dakota,4086,648,"Dewey, SD - Walworth, SD",18942,0,0,0,Low,2022-03-24T07:00:00Z
+Clallam County,53009,Washington,77331,785,"Clallam, WA - Jefferson, WA",109552,0.8,1.8,32.33,Low,2022-04-21T07:00:00Z
+Burke County,37023,North Carolina,90485,229,"Catawba (Hickory), NC - Burke, NC",332214,2.9,6.6,55.26,Low,2022-03-31T07:00:00Z
+White County,17193,Illinois,13537,383,"White, IL - Hamilton, IL",21653,0,0,14.77,Low,2022-05-19T07:00:00Z
+Henry County,17073,Illinois,48913,307,"Rock Island (Moline), IL - Henry, IL",211571,4.3,5.7,265.78,Medium,2022-07-28T07:00:00Z
+Aibonito Muni,72009,Puerto Rico,22108,904,Puerto Rico,3193694,0.4,1.5,36.19,Low,2022-03-24T07:00:00Z
+Latimer County,40077,Oklahoma,10073,466,"Pittsburg, OK - Pushmataha, OK",64823,0,0,0,Low,2022-04-07T07:00:00Z
+Winn Parish,22127,Louisiana,13904,530,"Winn, LA",13904,4.3,14.4,143.84,Medium,2022-03-03T07:00:00Z
+Schleicher County,48413,Texas,2793,426,"Tom Green (San Angelo), TX - Runnels, TX",162408,3.2,9.9,250.63,Medium,2022-08-11T07:00:00Z
+Williams County,38105,North Dakota,37589,579,"Williams, ND - McKenzie, ND",54877,1.9,5.5,71.83,Low,2022-06-02T07:00:00Z
+De Witt County,17039,Illinois,15638,338,"McLean (Bloomington), IL - Woodford, IL",225614,3.7,6.2,140.68,Low,2022-02-24T07:00:00Z
+Bayamón Muni,72021,Puerto Rico,169269,904,Puerto Rico,3193694,3.8,9.5,593.14,Medium,2022-08-04T07:00:00Z
+Nobles County,27105,Minnesota,21629,619,"Nobles, MN - Cottonwood, MN",50865,2.3,9.8,194.18,Low,2022-07-21T07:00:00Z
+Beauregard Parish,22011,Louisiana,37497,470,"Calcasieu (Lake Charles), LA - Vernon, LA",326703,6.3,28.2,424.03,High,2022-07-21T07:00:00Z
+Panola County,28107,Mississippi,34192,146,"Shelby (Memphis), TN - DeSoto, MS",1340541,1.1,2.3,78.97,Low,2022-05-12T07:00:00Z
+Bingham County,16011,Idaho,46811,696,"Bannock, ID - Bingham, ID",153986,1,2.6,40.59,Low,2022-04-28T07:00:00Z
+Bryan County,40013,Oklahoma,47995,436,"Grayson (Sherman), TX - Bryan, OK",233479,0.4,1.7,29.17,Low,2022-05-12T07:00:00Z
+Cleveland County,05025,Arkansas,7956,473,"Jefferson (Pine Bluff), AR - Drew, AR",128147,0.7,1.6,12.57,Low,2022-03-24T07:00:00Z
+Pendleton County,54071,West Virginia,6969,63,"Rockingham, VA - Harrisonburg City, VA",165835,2.3,6,71.75,Low,2022-04-07T07:00:00Z
+Garfield County,49017,Utah,5051,707,"Clark (Las Vegas), NV - Washington, UT",2511266,5.6,14.3,118.79,Medium,2022-06-23T07:00:00Z
+Terrell County,48443,Texas,776,492,"Midland (Midland), TX - Pecos, TX",202859,0.1,1.5,0,Low,2022-06-16T07:00:00Z
+McCook County,46087,South Dakota,5586,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,3,11,89.51,Medium,2022-07-14T07:00:00Z
+Pima County,04019,Arizona,1047279,700,"Pima (Tucson), AZ - Cochise, AZ",1268034,1.2,4,50.23,Low,2022-04-07T07:00:00Z
+Columbia County,12023,Florida,71686,159,"Alachua (Gainesville), FL - Columbia, FL",528345,6.2,26.5,90.67,High,2022-03-03T07:00:00Z
+Tuolumne County,06109,California,54478,737,"Stanislaus (Modesto), CA - Merced, CA",900021,10,21.2,565.37,High,2022-07-21T07:00:00Z
+Hot Spring County,05059,Arkansas,33771,448,"Garland, AR - Hot Spring, AR",175181,1.4,0.6,11.84,Low,2022-04-21T07:00:00Z
+Randall County,48381,Texas,137713,405,"Potter (Amarillo), TX - Randall, TX",350272,1.4,0.9,10.89,Low,2022-04-07T07:00:00Z
+Polk County,47139,Tennessee,16832,173,"Bradley, TN - Gilmer, GA",182499,0.7,0.5,17.82,Low,2022-04-14T07:00:00Z
+Monroe County,12087,Florida,74228,200,"Miami-Dade (Miami), FL - Broward, FL",4743946,6.6,19.2,144.15,Medium,2022-08-18T07:00:00Z
+Bourbon County,21017,Kentucky,19788,102,"Bourbon (Paris), KY - Nicholas, KY",27057,0.9,0,50.54,Low,2022-05-05T07:00:00Z
+Boone County,19015,Iowa,26234,606,"Story, IA - Boone, IA",167532,0.2,0.6,15.25,Low,2022-04-07T07:00:00Z
+Douglas County,20045,Kansas,122259,624,"Johnson (Overland Park), KS - Douglas, KS",792299,3,10.2,238.02,High,2022-07-28T07:00:00Z
+Hot Spring County,05059,Arkansas,33771,448,"Garland, AR - Hot Spring, AR",175181,8.3,8,186.55,Low,2022-03-03T07:00:00Z
+St. Francis County,05123,Arkansas,24994,499,"Crittenden (West Memphis), AR - St. Francis, AR",98225,2.4,4.1,304.07,Medium,2022-06-30T07:00:00Z
+Fairfield County,45039,South Carolina,22347,160,"Richland (Columbia), SC - Lexington, SC",775296,0.7,2.6,13.42,Low,2022-04-14T07:00:00Z
+Lincoln Parish,22061,Louisiana,46742,439,"Lincoln, LA - Union, LA",97835,0.7,6.1,233.19,Medium,2022-06-30T07:00:00Z
+Miller County,05091,Arkansas,43257,404,"Bowie (Texarkana), TX - Miller, AR",248210,1.2,4,122.52,Low,2022-06-23T07:00:00Z
+Paulding County,13223,Georgia,168667,190,"Cobb (Marietta), GA - Cherokee, GA",1366515,6.7,11.6,179.64,Medium,2022-06-30T07:00:00Z
+Granite County,30039,Montana,3379,713,"Missoula, MT - Ravalli, MT",213753,2.7,19.2,147.97,Medium,2022-06-09T07:00:00Z
+Boone County,18011,Indiana,67843,401,"Boone, IN",67843,1.4,1.5,114.97,Low,2022-05-19T07:00:00Z
+Wood County,54107,West Virginia,83518,34,"Wood (Parkersburg), WV - Washington, OH",215637,11.1,23.7,204.75,High,2022-03-03T07:00:00Z
+Arenac County,26011,Michigan,14883,342,"Bay (Bay City), MI - Iosco, MI",172374,4.1,7.0,181.42,Low,2022-09-01T07:00:00Z
+Skagway Muny,02230,Alaska,1183,818,"Juneau City and Borough, AK - Sitka City and Borough, AK",46907,5.2,10.7,253.59,High,2022-08-11T07:00:00Z
+Calhoun County,19025,Iowa,9668,633,"Carroll, IA - Sac, IA",39554,0,2.5,20.69,Low,2022-04-07T07:00:00Z
+Pike County,18125,Indiana,12389,310,"Knox, IN - Daviess, IN",126934,0.7,2.4,80.72,Low,2022-05-05T07:00:00Z
+Dawson County,13085,Georgia,26108,157,"Hall, GA - Habersham, GA",396067,3.8,5.3,149.38,Low,2022-06-09T07:00:00Z
+Itawamba County,28057,Mississippi,23390,418,"Lee, MS - Monroe, MS",186307,0.1,0.5,72.68,Low,2022-03-31T07:00:00Z
+Silver Bow County,30093,Montana,34915,742,"Silver Bow, MT - Deer Lodge, MT",53508,4.3,11.2,126.02,Medium,2022-08-18T07:00:00Z
+Sheridan County,38083,North Dakota,1315,543,"Burleigh (Bismarck), ND - Morton, ND",157852,2,11.4,0,Medium,2022-06-16T07:00:00Z
+Lamb County,48279,Texas,12893,406,"Lubbock (Lubbock), TX - Hockley, TX",391318,4.3,6.1,170.64,Low,2022-03-10T07:00:00Z
+Morton County,20129,Kansas,2587,587,"Seward, KS - Texas, OK",46135,0.4,4.3,0,Low,2022-05-05T07:00:00Z
+Love County,40085,Oklahoma,10253,474,"Carter, OK - Marshall, OK",86380,5.6,13.9,331.61,High,2022-08-04T07:00:00Z
+Cherokee County,48073,Texas,52646,509,"Anderson, TX - Cherokee, TX",133349,0.7,11.2,62.68,Medium,2022-06-23T07:00:00Z
+Ritchie County,54085,West Virginia,9554,34,"Wood (Parkersburg), WV - Washington, OH",215637,0.7,2.8,41.87,Low,2022-04-28T07:00:00Z
+Robertson County,21201,Kentucky,2108,119,"Harrison, KY - Robertson, KY",20994,3.1,0,47.44,Low,2022-03-17T07:00:00Z
+Wasatch County,49051,Utah,34091,708,"Salt Lake (Salt Lake City), UT - Tooele, UT",1364604,4.2,11.4,255.2,High,2022-07-21T07:00:00Z
+Cass County,26027,Michigan,51787,327,"Berrien (Benton Harbor), MI - Van Buren, MI",280865,11.7,9.3,52.14,Medium,2022-03-03T07:00:00Z
+Perry County,29157,Missouri,19136,563,"Cape Girardeau, MO - Butler, MO",310071,6.1,18.4,329.22,High,2022-07-28T07:00:00Z
+Pipestone County,27117,Minnesota,9126,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,5.9,18.8,175.32,Medium,2022-08-18T07:00:00Z
+Lorain County,39093,Ohio,309833,366,"Lorain (Lorain), OH - Erie, OH",500883,4.2,13.6,284.35,High,2022-07-28T07:00:00Z
+Deer Lodge County,30023,Montana,9140,742,"Silver Bow, MT - Deer Lodge, MT",53508,1.8,5.6,448.58,Medium,2022-03-10T07:00:00Z
+Gentry County,29075,Missouri,6571,591,"Buchanan (St. Joseph), MO - Nodaway, MO",164251,6.2,25.6,304.37,High,2022-07-21T07:00:00Z
+Refugio County,48391,Texas,6948,433,"Victoria (Victoria), TX - Calhoun, TX",183054,0.5,2.7,129.53,Low,2022-06-02T07:00:00Z
+Greene County,01063,Alabama,8111,156,"Tuscaloosa (Tuscaloosa), AL - Pickens, AL",252047,4.1,2.8,73.97,Low,2022-03-03T07:00:00Z
+Sheridan County,31161,Nebraska,5246,623,"Shannon, SD - Dawes, NE",32543,2.6,9.2,228.75,Medium,2022-08-04T07:00:00Z
+Lenoir County,37107,North Carolina,55949,238,"Wayne, NC - Lenoir, NC",258890,18,13.5,223.42,High,2022-02-24T07:00:00Z
+Douglas County,08035,Colorado,351154,688,"Denver (Denver), CO - Jefferson, CO",2943519,0.8,1.7,59.23,Low,2022-04-14T07:00:00Z
+Leflore County,28083,Mississippi,28183,487,"Bolivar, MS - Leflore, MS",91985,0.2,1.1,7.1,Low,2022-03-31T07:00:00Z
+Comal County,48091,Texas,156209,517,"Comal, TX",156209,4.4,0,175.41,Low,2022-03-10T07:00:00Z
+Bartholomew County,18005,Indiana,83779,313,"Bartholomew, IN - Jackson, IN",182304,0.7,4.4,59.68,Low,2022-05-05T07:00:00Z
+Vigo County,18167,Indiana,107038,311,"Vigo (Terre Haute), IN - Clay, IN",201808,1,4.5,99.03,Low,2022-05-26T07:00:00Z
+Hancock County,21091,Kentucky,8722,316,"Daviess (Owensboro), KY - Ohio, KY",162603,1.2,4.3,22.93,Low,2022-04-07T07:00:00Z
+Dare County,37055,North Carolina,37009,264,"Pasquotank, NC - Dare, NC",101163,1.3,1.0,102.68,Low,2022-09-01T07:00:00Z
+Scott County,19163,Iowa,172943,641,"Scott (Davenport), IA - Muscatine, IA",215607,2.9,7.9,208.16,Medium,2022-08-25T07:00:00Z
+Calhoun County,19025,Iowa,9668,633,"Carroll, IA - Sac, IA",39554,0.3,2.5,124.12,Low,2022-05-26T07:00:00Z
+Manatí Muni,72091,Puerto Rico,37287,904,Puerto Rico,3193694,4.3,8.9,699.98,Medium,2022-06-16T07:00:00Z
+Vernon County,29217,Missouri,20563,639,"Vernon, MO - Cedar, MO",34912,0,0,43.77,Low,2022-04-21T07:00:00Z
+Atoka County,40005,Oklahoma,13758,436,"Grayson (Sherman), TX - Bryan, OK",233479,8.2,6,392.5,Medium,2022-02-24T07:00:00Z
+St. Clair County,29185,Missouri,9397,607,"Henry, MO - Bates, MO",47393,1.8,12.7,106.42,Medium,2022-07-07T07:00:00Z
+Dickinson County,20041,Kansas,18466,650,"Geary, KS - Dickinson, KS",55756,0.7,0,32.49,Low,2022-03-10T07:00:00Z
+Douglas County,55031,Wisconsin,43150,289,"St. Louis (Duluth), MN - Itasca, MN",381133,3.7,6.8,83.43,Low,2022-09-01T07:00:00Z
+Barren County,21009,Kentucky,44249,53,"Barren, KY - Hart, KY",84005,10.2,25,390.97,High,2022-02-24T07:00:00Z
+Greene County,29077,Missouri,293086,549,"Greene (Springfield), MO - Christian, MO",695270,12,18.7,154.9,Medium,2022-02-24T07:00:00Z
+Houston County,13153,Georgia,157863,193,"Bibb (Macon), GA - Houston, GA",456389,5.2,1.8,57.01,Low,2022-03-03T07:00:00Z
+Kittitas County,53037,Washington,47935,739,"Yakima (Yakima), WA - Kittitas, WA",298808,6.3,5.4,91.79,Low,2022-08-11T07:00:00Z
+Putnam County,29171,Missouri,4696,566,"Adair, MO - Sullivan, MO",49649,0.2,2,21.29,Low,2022-03-17T07:00:00Z
+Santa Fe County,35049,New Mexico,150358,724,"Santa Fe (Santa Fe), NM - Rio Arriba, NM",241371,2.3,3.3,160.28,Low,2022-05-12T07:00:00Z
+Smith County,48423,Texas,232751,441,"Smith (Tyler), TX - Henderson, TX",417617,1.2,2.2,12.46,Low,2022-04-28T07:00:00Z
+Crawford County,05033,Arkansas,63257,421,"Sebastian (Fort Smith), AR - Crawford, AR",344595,2.3,2.3,7.9,Low,2022-04-14T07:00:00Z
+Benton County,53005,Washington,204390,702,"Benton (Kennewick), WA - Franklin, WA",299612,1.5,5,51.37,Low,2022-05-05T07:00:00Z
+Lafayette County,05073,Arkansas,6624,404,"Bowie (Texarkana), TX - Miller, AR",248210,7.7,10.5,105.68,Medium,2022-02-24T07:00:00Z
+Virginia Beach City,51810,Virginia,449974,6,"Virginia Beach City, VA - Norfolk City, VA",1214527,3.1,4.7,55.78,Low,2022-03-03T07:00:00Z
+Wrangell City and Borough,02275,Alaska,2502,817,"Ketchikan Gateway Borough, AK - Wrangell-Petersburg Cen, AK",25872,7.7,11.6,199.84,Medium,2022-03-17T07:00:00Z
+Carter County,40019,Oklahoma,48111,474,"Carter, OK - Marshall, OK",86380,4.1,17.4,469.75,High,2022-07-28T07:00:00Z
+Caddo County,40015,Oklahoma,28762,476,"Grady, OK - Caddo, OK",84596,2,2.4,340.73,Medium,2022-08-11T07:00:00Z
+Clark County,18019,Indiana,118302,365,"Clark (Jeffersonville), IN - Scott, IN",142175,15.5,16.2,342.34,High,2022-07-28T07:00:00Z
+St. Mary's County,24037,Maryland,113510,61,"Montgomery, MD - Prince Georges, MD",2942531,4.3,7,256.37,Medium,2022-06-02T07:00:00Z
+Irwin County,13155,Georgia,9416,189,"Tift, GA - Ben Hill, GA",74745,0.8,2.7,10.62,Low,2022-05-26T07:00:00Z
+Teton County,56039,Wyoming,23464,775,"Teton, WY - Lincoln, WY",53125,3.1,18.8,515.68,High,2022-07-21T07:00:00Z
+Garfield County,49017,Utah,5051,707,"Clark (Las Vegas), NV - Washington, UT",2511266,5.7,13.9,138.59,Medium,2022-07-28T07:00:00Z
+Clinton County,42035,Pennsylvania,38632,44,"Lycoming (Williamsport), PA - Clinton, PA",151931,6.4,15.8,220.02,High,2022-06-02T07:00:00Z
+Holmes County,12059,Florida,19617,155,"Bay (Panama City), FL - Jackson, FL",293953,1.2,1,127.44,Low,2022-04-07T07:00:00Z
+Mills County,19129,Iowa,15109,596,"Pottawattamie (Council Bluffs), IA - Harrison, IA",152150,0.9,3.3,19.86,Low,2022-04-07T07:00:00Z
+Hooker County,31091,Nebraska,682,593,"Lincoln, NE - Keith, NE",47478,6.1,23.2,0,High,2022-06-23T07:00:00Z
+Honolulu County,15003,Hawaii,974563,821,"Honolulu (Honolulu), HI - Maui, HI",1142066,1.3,3.6,90.6,Low,2022-04-07T07:00:00Z
+West Carroll Parish,22123,Louisiana,10830,443,"Ouachita (Monroe), LA - Morehouse, LA",245899,0.1,4.1,9.23,Low,2022-05-12T07:00:00Z
+Medina County,48325,Texas,51584,410,"Bexar (San Antonio), TX - Guadalupe, TX",2455997,1.3,5.4,54.28,Low,2022-06-02T07:00:00Z
+Lorain County,39093,Ohio,309833,366,"Lorain (Lorain), OH - Erie, OH",500883,2.4,7.2,134.27,Low,2022-07-07T07:00:00Z
+Clare County,26035,Michigan,30950,330,"Midland (Midland), MI - Isabella, MI",209427,2,5.3,25.85,Low,2022-03-24T07:00:00Z
+Roanoke City,51770,Virginia,99143,14,"Roanoke City, VA - Roanoke, VA",592537,6.5,18.1,235.01,High,2022-08-25T07:00:00Z
+Culebra Muni,72049,Puerto Rico,1714,904,Puerto Rico,3193694,3.5,6.6,58.34,Low,2022-09-01T07:00:00Z
+Carbon County,42025,Pennsylvania,64182,84,"Lehigh (Allentown), PA - Northampton, PA",909056,2.1,5.4,79.46,Low,2022-04-28T07:00:00Z
+Johnson County,29101,Missouri,54062,548,"Jackson (Kansas City), MO - Clay, MO",1310630,2.1,5.8,62.89,Low,2022-06-02T07:00:00Z
+Chester County,42029,Pennsylvania,524989,28,"Philadelphia (Philadelphia), PA - Montgomery, PA",4134985,1.1,3.3,46.48,Low,2022-03-31T07:00:00Z
+Charles County,24017,Maryland,163257,61,"Montgomery, MD - Prince Georges, MD",2942531,3.1,6.4,270.74,Medium,2022-05-19T07:00:00Z
+Kingman County,20095,Kansas,7152,661,"Kingman, KS - Harper, KS",12588,5.2,23.8,209.73,High,2022-07-14T07:00:00Z
+Sunflower County,28133,Mississippi,25110,487,"Bolivar, MS - Leflore, MS",91985,2.4,9.8,199.12,Low,2022-08-25T07:00:00Z
+Brunswick County,37019,North Carolina,142820,168,"New Hanover (Wilmington), NC - Brunswick, NC",440353,5.1,4.3,81.22,Low,2022-03-17T07:00:00Z
+Aurora County,46003,South Dakota,2751,615,"Davison, SD - Charles Mix, SD",51576,4.1,5.8,0,Low,2022-06-09T07:00:00Z
+Lauderdale County,28075,Mississippi,74125,412,"Lauderdale, MS - Neshoba, MS",174560,1.1,10.3,107.93,Medium,2022-07-14T07:00:00Z
+Tallahatchie County,28135,Mississippi,13809,422,"Coahoma, MS - Tallahatchie, MS",42725,1.7,4.7,7.24,Low,2022-03-17T07:00:00Z
+Marion County,13197,Georgia,8359,166,"Muscogee (Columbus), GA - Russell, AL",328912,5.9,4.9,11.96,Low,2022-03-24T07:00:00Z
+East Carroll Parish,22035,Louisiana,6861,443,"Ouachita (Monroe), LA - Morehouse, LA",245899,5,33.8,1515.81,High,2022-08-11T07:00:00Z
+Delta County,48119,Texas,5331,438,"Lamar, TX - Choctaw, OK",81885,3.6,6.1,262.61,Medium,2022-07-07T07:00:00Z
+Kauai County,15007,Hawaii,72293,822,"Kauai, HI",72293,9.9,8.3,283.57,Medium,2022-07-07T07:00:00Z
+Grand Traverse County,26055,Michigan,93088,271,"Grand Traverse, MI - Manistee, MI",198535,2.8,10.1,98.83,Medium,2022-07-07T07:00:00Z
+Divide County,38023,North Dakota,2264,579,"Williams, ND - McKenzie, ND",54877,0,0,0,Low,2022-04-28T07:00:00Z
+Sweet Grass County,30097,Montana,3737,756,"Park, MT - Sweet Grass, MT",20343,0.6,4.9,0,Low,2022-03-24T07:00:00Z
+Columbia County,12023,Florida,71686,159,"Alachua (Gainesville), FL - Columbia, FL",528345,1.6,5.9,2.79,Low,2022-03-31T07:00:00Z
+New Castle County,10003,Delaware,558753,75,"New Castle (Wilmington), DE - Harford, MD",917049,4.5,9.8,240.18,Medium,2022-07-14T07:00:00Z
+Grenada County,28043,Mississippi,20758,502,"Grenada, MS - Montgomery, MS",40480,0.2,2.5,4.82,Low,2022-03-24T07:00:00Z
+Tolland County,09013,Connecticut,150721,4,"Hartford (Hartford), CT - Tolland, CT",1159223,3,7.2,55.73,Low,2022-03-03T07:00:00Z
+Bullitt County,21029,Kentucky,81676,272,"Jefferson (Louisville), KY - Bullitt, KY",1077334,4.4,11.2,288.95,High,2022-07-28T07:00:00Z
+Marshall County,27089,Minnesota,9336,604,"Pennington, MN - Marshall, MN",31808,4.3,9.4,342.76,Medium,2022-03-17T07:00:00Z
+Beauregard Parish,22011,Louisiana,37497,470,"Calcasieu (Lake Charles), LA - Vernon, LA",326703,0.8,0.3,2.67,Low,2022-04-21T07:00:00Z
+Faribault County,27043,Minnesota,13653,646,"Freeborn, MN - Faribault, MN",43934,6.4,13.7,175.79,Medium,2022-09-01T07:00:00Z
+Humphreys County,47085,Tennessee,18582,148,"Davidson (Nashville-Davidson), TN - Williamson, TN",1142744,3,15.1,220.64,High,2022-07-14T07:00:00Z
+Pike County,28113,Mississippi,39288,477,"Pike, MS - Marion, MS",90444,1,1.1,175.63,Low,2022-06-09T07:00:00Z
+Webster County,54101,West Virginia,8114,7,"Kanawha (Charleston), WV - Putnam, WV",297149,4.3,14.1,271.14,High,2022-07-07T07:00:00Z
+Storey County,32029,Nevada,4123,701,"Washoe (Reno), NV - Carson City, NV",692072,2.4,7.1,145.53,Low,2022-06-02T07:00:00Z
+Richland County,39139,Ohio,121154,369,"Richland (Mansfield), OH - Ashland, OH",174638,6.9,10.3,262.48,High,2022-09-01T07:00:00Z
+Worth County,13321,Georgia,20247,144,"Dougherty (Albany), GA - Lee, GA",175755,0.9,0,44.45,Low,2022-05-05T07:00:00Z
+Miami County,39109,Ohio,106987,376,"Miami (Piqua), OH - Shelby, OH",155577,1.8,4.5,137.4,Low,2022-06-16T07:00:00Z
+Peoria County,17143,Illinois,179179,277,"Peoria (Peoria), IL - Tazewell, IL",370119,1.4,9.5,65.3,Low,2022-03-10T07:00:00Z
+Wells County,18179,Indiana,28296,332,"Huntington, IN - Adams, IN",121029,0.1,5.8,14.14,Low,2022-05-05T07:00:00Z
+Harford County,24025,Maryland,255441,75,"New Castle (Wilmington), DE - Harford, MD",917049,4.6,7.7,65.38,Low,2022-02-24T07:00:00Z
+Hardeman County,47069,Tennessee,25050,188,"Madison (Jackson), TN - Gibson, TN",260778,2.2,5,47.9,Low,2022-05-26T07:00:00Z
+Erie County,39043,Ohio,74266,366,"Lorain (Lorain), OH - Erie, OH",500883,0.9,2.2,29.62,Low,2022-04-21T07:00:00Z
+Garrett County,24023,Maryland,29014,1,"Allegany (Cumberland), MD - Garrett, MD",151642,2.3,7.9,161.99,Low,2022-06-30T07:00:00Z
+Loíza Muni,72087,Puerto Rico,24553,904,Puerto Rico,3193694,3.8,9.1,297.32,Medium,2022-06-09T07:00:00Z
+Perry County,05105,Arkansas,10455,432,"Pulaski (Little Rock), AR - Faulkner, AR",787837,0.9,7.7,19.13,Low,2022-05-19T07:00:00Z
+Harrison County,29081,Missouri,8352,591,"Buchanan (St. Joseph), MO - Nodaway, MO",164251,6.2,25.6,203.54,High,2022-07-21T07:00:00Z
+Buffalo County,55011,Wisconsin,13031,298,"Eau Claire (Eau Claire), WI - Chippewa, WI",234990,4.0,9.4,191.85,Low,2022-09-01T07:00:00Z
+Anchorage Municipality,02020,Alaska,288000,820,"Anchorage (Anchorage), AK - Matanuska-Susitna Borough, AK",547697,2.3,5.1,237.85,Medium,2022-05-26T07:00:00Z
+Madison County,12079,Florida,18493,183,"Leon (Tallahassee), FL - Gadsden, FL",447768,0.4,0.7,27.04,Low,2022-04-21T07:00:00Z
+Cecil County,24015,Maryland,102855,75,"New Castle (Wilmington), DE - Harford, MD",917049,5.7,11.6,153.61,Medium,2022-08-18T07:00:00Z
+Garfield County,49017,Utah,5051,707,"Clark (Las Vegas), NV - Washington, UT",2511266,2.2,5.8,39.6,Low,2022-05-19T07:00:00Z
+Martin County,27091,Minnesota,19683,626,"Martin, MN - Emmet, IA",28891,1.2,6.9,121.93,Low,2022-04-28T07:00:00Z
+McLean County,38055,North Dakota,9450,543,"Burleigh (Bismarck), ND - Morton, ND",157852,4.7,19.0,222.22,High,2022-08-25T07:00:00Z
+Salem City,51775,Virginia,25301,14,"Roanoke City, VA - Roanoke, VA",592537,2.4,5.6,154.14,Low,2022-05-19T07:00:00Z
+Haskell County,48207,Texas,5658,428,"Taylor (Abilene), TX - Jones, TX",210821,3.3,13.3,265.11,High,2022-08-18T07:00:00Z
+Escambia County,12033,Florida,318316,163,"Escambia (Pensacola), FL - Okaloosa, FL",836138,0.6,3.1,15.39,Low,2022-04-21T07:00:00Z
+Dutchess County,36027,New York,294218,41,"Westchester (Yonkers), NY - Dutchess, NY",1537617,5.3,11.3,130.52,Medium,2022-08-25T07:00:00Z
+Waukesha County,55133,Wisconsin,404198,280,"Milwaukee (Milwaukee), WI - Waukesha, WI",1575179,4.5,7.4,73.23,Low,2022-03-03T07:00:00Z
+Fayette County,18041,Indiana,23102,385,"Wayne, IN - Fayette, IN",96040,17.9,8.3,112.54,High,2022-02-24T07:00:00Z
+Macon County,13193,Georgia,12947,197,"Sumter, GA - Crisp, GA",86868,2.5,6.9,139.03,Low,2022-06-09T07:00:00Z
+Stonewall County,48433,Texas,1350,428,"Taylor (Abilene), TX - Jones, TX",210821,0.3,4.7,0,Low,2022-05-19T07:00:00Z
+Georgetown County,45043,South Carolina,62680,246,"Horry, SC - Georgetown, SC",416761,2.9,4.8,65.41,Low,2022-05-12T07:00:00Z
+Cheboygan County,26031,Michigan,25276,294,"Chippewa, MI - Emmet, MI",132982,3.8,5.3,31.65,Low,2022-03-17T07:00:00Z
+Meade County,20119,Kansas,4033,551,"Ford, KS - Gray, KS",47428,0.6,2.1,0,Low,2022-05-26T07:00:00Z
+Tripp County,46123,South Dakota,5441,595,"Todd, SD - Tripp, SD",23783,0,0,0,Low,2022-04-07T07:00:00Z
+Orleans County,36073,New York,40352,54,"Erie (Buffalo), NY - Monroe, NY",2070158,3.9,7.3,52.04,Low,2022-07-07T07:00:00Z
+Yadkin County,37197,North Carolina,37667,149,"Forsyth (Winston-Salem), NC - Surry, NC",580182,4.4,16.2,398.23,High,2022-07-28T07:00:00Z
+Noble County,18113,Indiana,47744,304,"Allen (Fort Wayne), IN - Noble, IN",578690,3.7,12.8,219.92,High,2022-07-28T07:00:00Z
+Bannock County,16005,Idaho,87808,696,"Bannock, ID - Bingham, ID",153986,3.4,7.1,231.19,Medium,2022-07-21T07:00:00Z
+Clinton County,21053,Kentucky,10218,104,"Clinton, KY - Cumberland, KY",16832,0,0,29.36,Low,2022-05-12T07:00:00Z
+Loíza Muni,72087,Puerto Rico,24553,904,Puerto Rico,3193694,0.4,1.5,12.22,Low,2022-03-24T07:00:00Z
+Valencia County,35061,New Mexico,76688,693,"Bernalillo (Albuquerque), NM - Sandoval, NM",961330,1.2,3.3,65.2,Low,2022-05-05T07:00:00Z
+Cochran County,48079,Texas,2853,406,"Lubbock (Lubbock), TX - Hockley, TX",391318,0.7,1.3,140.2,Low,2022-04-07T07:00:00Z
+Colusa County,06011,California,21547,690,"Sutter (Yuba City), CA - Yuba, CA",197186,2.1,6.1,13.92,Low,2022-04-07T07:00:00Z
+Stafford County,51179,Virginia,152882,135,"Stafford, VA - Spotsylvania, VA",375694,2.6,6.9,236.78,Medium,2022-06-30T07:00:00Z
+Sargent County,38081,North Dakota,3898,547,"Cass (Fargo), ND - Clay, MN",346542,8.3,13,230.89,High,2022-02-24T07:00:00Z
+Monroe County,18105,Indiana,148431,341,"Monroe (Bloomington), IN - Greene, IN",216244,2.3,4.2,40.42,Low,2022-03-31T07:00:00Z
+Union County,41061,Oregon,26835,759,"Union, OR - Baker, OR",50167,0.6,0,7.45,Low,2022-04-07T07:00:00Z
+Hillsdale County,26059,Michigan,45605,375,"Jackson (Jackson), MI - Lenawee, MI",346083,2.7,4.6,63.59,Low,2022-04-28T07:00:00Z
+Piscataquis County,23021,Maine,16785,17,"Penobscot (Bangor), ME - Hancock, ME",255299,6,15.3,244.27,High,2022-06-02T07:00:00Z
+San Diego County,06073,California,3338330,774,"San Diego (San Diego), CA - Imperial, CA",3519545,6.6,9.6,262.35,Medium,2022-08-11T07:00:00Z
+Marquette County,55077,Wisconsin,15574,301,"Dane (Madison), WI - Sauk, WI",776612,1.9,3.2,70.63,Low,2022-03-24T07:00:00Z
+Audrain County,29007,Missouri,25388,666,"Audrain, MO - Montgomery, MO",45583,NA,0,181.19,Low,2022-08-18T07:00:00Z
+Emery County,49015,Utah,10012,809,"Carbon, UT - Emery, UT",30475,1.2,3.3,0,Low,2022-06-09T07:00:00Z
+Hubbard County,27057,Minnesota,21491,612,"Crow Wing, MN - Cass, MN",145893,5.3,6.2,120.98,Low,2022-03-17T07:00:00Z
+Mendocino County,06045,California,86749,811,"Mendocino, CA",86749,4.8,4.6,318.16,Medium,2022-05-26T07:00:00Z
+Winn Parish,22127,Louisiana,13904,530,"Winn, LA",13904,1.4,7.2,0,Low,2022-04-07T07:00:00Z
+Caldwell County,29025,Missouri,9020,548,"Jackson (Kansas City), MO - Clay, MO",1310630,2.4,7.1,33.26,Low,2022-05-19T07:00:00Z
+Garden County,31069,Nebraska,1837,580,"Scotts Bluff, NE - Goshen, WY",69815,0.8,4.3,0,Low,2022-05-26T07:00:00Z
+Beadle County,46005,South Dakota,18453,600,"Beadle, SD - Hand, SD",24958,0,0,27.1,Low,2022-04-28T07:00:00Z
+Grays Harbor County,53027,Washington,75061,758,"Thurston (Olympia), WA - Lewis, WA",535543,8.5,11,279.77,High,2022-07-07T07:00:00Z
+Stephens County,40137,Oklahoma,43143,497,"Stephens, OK - Jefferson, OK",49145,0.5,2,6.95,Low,2022-05-26T07:00:00Z
+Carlton County,27017,Minnesota,35871,289,"St. Louis (Duluth), MN - Itasca, MN",381133,4.7,10.2,136.6,Medium,2022-08-11T07:00:00Z
+DuPage County,17043,Illinois,922921,287,"Cook (Chicago), IL - DuPage, IL",7077463,3.5,10.9,341.96,High,2022-05-26T07:00:00Z
+Santa Rosa County,12113,Florida,184313,163,"Escambia (Pensacola), FL - Okaloosa, FL",836138,4.0,14.0,164.39,Medium,2022-09-01T07:00:00Z
+Lake County,41037,Oregon,7869,743,"Klamath, OR - Lake, OR",76107,3.6,2.6,88.96,Low,2022-05-26T07:00:00Z
+Walthall County,28147,Mississippi,14286,477,"Pike, MS - Marion, MS",90444,8.4,14.4,349.99,High,2022-08-11T07:00:00Z
+Lehigh County,42077,Pennsylvania,369318,84,"Lehigh (Allentown), PA - Northampton, PA",909056,5.7,9.5,43.59,Low,2022-03-03T07:00:00Z
+Lincoln County,08073,Colorado,5701,754,"El Paso (Colorado Springs), CO - Teller, CO",760420,3.3,8.7,70.16,Low,2022-06-30T07:00:00Z
+Jackson County,20085,Kansas,13171,554,"Shawnee (Topeka), KS - Riley, KS",350379,2.2,4.6,68.33,Low,2022-05-19T07:00:00Z
+Union County,47173,Tennessee,19972,147,"Knox (Knoxville), TN - Blount, TN",888452,4.4,3.9,50.07,Low,2022-03-17T07:00:00Z
+Johnson County,21115,Kentucky,22188,11,"Floyd, KY - Johnson, KY",69938,2.2,2.9,27.04,Low,2022-05-05T07:00:00Z
+Claiborne County,28021,Mississippi,8988,431,"Warren, MS - Madison, LA",65320,0.6,0,11.13,Low,2022-04-07T07:00:00Z
+Bucks County,42017,Pennsylvania,628270,28,"Philadelphia (Philadelphia), PA - Montgomery, PA",4134985,4.1,11.9,172.7,Medium,2022-06-09T07:00:00Z
+Plymouth County,25023,Massachusetts,521202,22,"Middlesex, MA - Suffolk (Boston), MA",3885304,2,6,64.08,Low,2022-03-03T07:00:00Z
+Ramsey County,38071,North Dakota,11519,655,"Ramsey, ND - Benson, ND",20638,25,9.7,338.57,High,2022-02-24T07:00:00Z
+Blount County,01009,Alabama,57826,150,"Jefferson (Birmingham), AL - Shelby, AL",1237724,4.5,16.3,197.14,Medium,2022-08-18T07:00:00Z
+Stephenson County,17177,Illinois,44498,302,"Dubuque (Dubuque), IA - Stephenson, IL",182483,4.6,15.3,188.77,Medium,2022-06-16T07:00:00Z
+Fond du Lac County,55039,Wisconsin,103403,306,"Winnebago (Oshkosh), WI - Fond du Lac, WI",406505,4.6,6.6,269.82,Medium,2022-05-19T07:00:00Z
+Teller County,08119,Colorado,25388,754,"El Paso (Colorado Springs), CO - Teller, CO",760420,2.3,4.5,181.19,Low,2022-06-09T07:00:00Z
+Shackelford County,48417,Texas,3265,428,"Taylor (Abilene), TX - Jones, TX",210821,0.5,4.7,61.26,Low,2022-04-14T07:00:00Z
+Love County,40085,Oklahoma,10253,474,"Carter, OK - Marshall, OK",86380,0.7,0,9.75,Low,2022-03-31T07:00:00Z
+Noble County,18113,Indiana,47744,304,"Allen (Fort Wayne), IN - Noble, IN",578690,1.3,4.8,111.01,Low,2022-06-02T07:00:00Z
+Tipton County,18159,Indiana,15148,364,"Howard (Kokomo), IN - Cass, IN",135381,0.1,0.7,6.6,Low,2022-04-14T07:00:00Z
+Kingsbury County,46077,South Dakota,4939,610,"Brookings, SD - Kingsbury, SD",40016,1.7,2.5,80.99,Low,2022-06-30T07:00:00Z
+Wrangell City and Borough,02275,Alaska,2502,817,"Ketchikan Gateway Borough, AK - Wrangell-Petersburg Cen, AK",25872,5.7,11.6,279.78,High,2022-05-19T07:00:00Z
+Cascade County,30013,Montana,81366,692,"Cascade (Great Falls), MT - Glacier, MT",119555,3.6,25.1,210.16,High,2022-07-28T07:00:00Z
+Sublette County,56035,Wyoming,9831,775,"Teton, WY - Lincoln, WY",53125,0,0,0,Low,2022-04-21T07:00:00Z
+Calhoun County,05013,Arkansas,5189,486,"Union, AR - Columbia, AR",67328,1.2,0,0,Low,2022-05-19T07:00:00Z
+Fulton County,18049,Indiana,19974,312,"St. Joseph (South Bend), IN - Marshall, IN",350411,4.3,13.1,270.35,High,2022-08-11T07:00:00Z
+Decatur County,47039,Tennessee,11663,188,"Madison (Jackson), TN - Gibson, TN",260778,2.4,3.1,8.57,Low,2022-04-21T07:00:00Z
+Dade County,29057,Missouri,7561,549,"Greene (Springfield), MO - Christian, MO",695270,1.3,2.4,0,Low,2022-05-19T07:00:00Z
+Brazos County,48041,Texas,229211,464,"Brazos (Bryan), TX - Washington, TX",329490,4.4,13.7,293.62,High,2022-08-11T07:00:00Z
+Tyler County,48457,Texas,21672,413,"Jefferson (Beaumont), TX - Orange, TX",463359,7.5,15.3,336.84,High,2022-07-28T07:00:00Z
+Union County,47173,Tennessee,19972,147,"Knox (Knoxville), TN - Blount, TN",888452,4.3,10.4,275.39,High,2022-07-28T07:00:00Z
+Kleberg County,48273,Texas,30680,437,"Nueces (Corpus Christi), TX - San Patricio, TX",554557,6.2,10.3,140.16,Medium,2022-03-10T07:00:00Z
+Bath County,21011,Kentucky,12500,131,"Montgomery, KY - Bath, KY",40657,1.9,4.9,576.0,Medium,2022-09-01T07:00:00Z
+Pointe Coupee Parish,22077,Louisiana,21730,419,"East Baton Rouge (Baton Rouge), LA - Livingston, LA",822861,1.8,5.7,133.46,Low,2022-06-02T07:00:00Z
+Hanson County,46061,South Dakota,3453,615,"Davison, SD - Charles Mix, SD",51576,6.0,13.6,57.92,Medium,2022-09-01T07:00:00Z
+Camuy Muni,72027,Puerto Rico,30504,904,Puerto Rico,3193694,2,8,803.17,Medium,2022-04-28T07:00:00Z
+Pierce County,13229,Georgia,19465,174,"Ware, GA - Pierce, GA",72981,1.2,1.4,41.1,Low,2022-05-12T07:00:00Z
+Brazos County,48041,Texas,229211,464,"Brazos (Bryan), TX - Washington, TX",329490,3.7,11.5,245.63,High,2022-09-01T07:00:00Z
+Rockingham County,51165,Virginia,81948,63,"Rockingham, VA - Harrisonburg City, VA",165835,3.3,5.4,128.13,Low,2022-07-21T07:00:00Z
+Burke County,37023,North Carolina,90485,229,"Catawba (Hickory), NC - Burke, NC",332214,3.5,7.8,175.72,Low,2022-06-02T07:00:00Z
+Hamilton County,47065,Tennessee,367804,141,"Hamilton (Chattanooga), TN - Walker, GA",565194,0.6,2.1,24.74,Low,2022-04-21T07:00:00Z
+Hot Springs County,56017,Wyoming,4413,777,"Fremont, WY - Washakie, WY",51479,0.1,1.9,45.32,Low,2022-05-12T07:00:00Z
+Talbot County,24041,Maryland,37181,107,"Queen Annes, MD - Talbot, MD",152897,5,2.6,107.58,Low,2022-06-16T07:00:00Z
+Carbon County,30009,Montana,10725,691,"Yellowstone (Billings), MT - Big Horn, MT",210073,1.5,17.6,46.62,Medium,2022-06-23T07:00:00Z
+Teton County,16081,Idaho,12142,722,"Bonneville, ID - Madison, ID",221838,0.3,1.4,41.18,Low,2022-04-21T07:00:00Z
+Rutherford County,37161,North Carolina,67029,218,"Gaston (Gastonia), NC - Cleveland, NC",475616,6.5,10.9,238.7,High,2022-08-04T07:00:00Z
+Stark County,38089,North Dakota,31489,605,"Stark, ND - Dunn, ND",38602,4,5.2,28.58,Low,2022-04-07T07:00:00Z
+Edgefield County,45037,South Carolina,27260,152,"Richmond (South Augusta), GA - Aiken, SC",648284,4.8,3.4,132.06,Low,2022-03-10T07:00:00Z
+Sussex County,51183,Virginia,11159,77,"Petersburg City, VA - Prince George, VA",138353,5.4,11.6,35.85,Medium,2022-03-10T07:00:00Z
+Harrison County,19085,Iowa,14049,596,"Pottawattamie (Council Bluffs), IA - Harrison, IA",152150,1.3,3.3,14.24,Low,2022-05-12T07:00:00Z
+Fayette County,48149,Texas,25346,490,"Fayette, TX - Colorado, TX",46839,0.3,2.1,31.56,Low,2022-04-07T07:00:00Z
+Quitman County,28119,Mississippi,6792,422,"Coahoma, MS - Tallahatchie, MS",42725,0.2,2.3,103.06,Low,2022-07-07T07:00:00Z
+Marion County,28091,Mississippi,24573,477,"Pike, MS - Marion, MS",90444,11.3,17.7,402.88,High,2022-08-25T07:00:00Z
+Jones County,13169,Georgia,28735,193,"Bibb (Macon), GA - Houston, GA",456389,3.8,15.8,121.8,Medium,2022-09-01T07:00:00Z
+Gasconade County,29073,Missouri,14706,581,"Cole, MO - Callaway, MO",224177,5.8,10.3,108.8,Medium,2022-08-25T07:00:00Z
+Phillips County,08095,Colorado,4265,763,"Logan, CO - Phillips, CO",28922,0.2,10.4,93.79,Medium,2022-06-30T07:00:00Z
+St. James Parish,22093,Louisiana,21096,403,"Orleans (New Orleans), LA - Jefferson, LA",1010111,3.7,14.5,308.12,High,2022-06-30T07:00:00Z
+Fulton County,21075,Kentucky,5969,181,"Weakley, TN - Obion, TN",69366,0.7,2.9,16.75,Low,2022-05-12T07:00:00Z
+Phillips County,08095,Colorado,4265,763,"Logan, CO - Phillips, CO",28922,0.0,0.0,140.68,Low,2022-09-01T07:00:00Z
+Fillmore County,31059,Nebraska,5462,658,"Fillmore, NE - Thayer, NE",10465,0,9.6,18.31,Low,2022-03-10T07:00:00Z
+Blaine County,30005,Montana,6681,712,"Hill, MT - Blaine, MT",29456,3.2,13.6,628.65,High,2022-02-24T07:00:00Z
+Douglas County,27041,Minnesota,38141,608,"Douglas, MN - Pope, MN",59195,5.8,16.9,115.36,Medium,2022-05-05T07:00:00Z
+Dallas County,19049,Iowa,93453,546,"Polk (Des Moines), IA - Dallas, IA",763408,3.7,6,149.81,Low,2022-07-07T07:00:00Z
+Broadwater County,30007,Montana,6237,721,"Lewis and Clark, MT - Jefferson, MT",87890,3.8,6.8,48.1,Low,2022-06-23T07:00:00Z
+Cumberland County,51049,Virginia,9932,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,1,3.6,80.55,Low,2022-05-05T07:00:00Z
+Clay County,05021,Arkansas,14551,571,"Craighead, AR - Greene, AR",257231,4.3,12.4,274.9,High,2022-09-01T07:00:00Z
+Pondera County,30073,Montana,5911,692,"Cascade (Great Falls), MT - Glacier, MT",119555,4,12.5,253.76,High,2022-07-21T07:00:00Z
+Allen Parish,22003,Louisiana,25627,450,"Rapides (Alexandria), LA - Avoyelles, LA",242194,8,19.8,253.64,High,2022-07-28T07:00:00Z
+La Crosse County,55063,Wisconsin,118016,290,"La Crosse (La Crosse), WI - Monroe, WI",257027,3.2,10.5,219.46,High,2022-06-09T07:00:00Z
+Washington County,21229,Kentucky,12095,272,"Jefferson (Louisville), KY - Bullitt, KY",1077334,2.5,4.9,214.96,Medium,2022-03-24T07:00:00Z
+Cumberland County,51049,Virginia,9932,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,3.5,13.6,201.37,High,2022-07-14T07:00:00Z
+Delaware County,40041,Oklahoma,43009,446,"Washington (Fayetteville), AR - Benton, AR",577913,0.6,2.2,18.6,Low,2022-05-12T07:00:00Z
+Crawford County,26039,Michigan,14029,392,"Roscommon, MI - Otsego, MI",62716,0.4,3.2,106.92,Low,2022-06-02T07:00:00Z
+Randolph County,54083,West Virginia,28695,50,"Randolph, WV - Barbour, WV",60222,2.4,3.3,73.18,Low,2022-03-24T07:00:00Z
+Wilbarger County,48487,Texas,12769,458,"Wilbarger, TX - Hardeman, TX",17857,4.1,44.8,289.76,High,2022-08-18T07:00:00Z
+Archer County,48009,Texas,8553,420,"Wichita (Wichita Falls), TX - Montague, TX",197756,1.6,7.1,198.76,Low,2022-07-07T07:00:00Z
+Nottoway County,51135,Virginia,15232,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,2.7,10.5,131.3,Medium,2022-05-26T07:00:00Z
+Union County,05139,Arkansas,38682,486,"Union, AR - Columbia, AR",67328,8.2,7.4,188.72,Low,2022-08-11T07:00:00Z
+Ponce Muni,72113,Puerto Rico,131881,904,Puerto Rico,3193694,3.9,8.8,796.93,Medium,2022-06-02T07:00:00Z
+Morgan County,18109,Indiana,70489,275,"Marion (Indianapolis), IN - Johnson, IN",1462435,3,12.5,168.82,Medium,2022-07-21T07:00:00Z
+Wharton County,48481,Texas,41556,505,"Brazoria (Lake Jackson), TX - Wharton, TX",452463,1.1,0.9,48.13,Low,2022-05-12T07:00:00Z
+Meriwether County,13199,Georgia,21167,172,"Coweta, GA - Troup (La Grange), GA",307497,0.7,2,80.31,Low,2022-06-02T07:00:00Z
+Union Parish,22111,Louisiana,22108,439,"Lincoln, LA - Union, LA",97835,0.7,6.1,199.02,Low,2022-06-30T07:00:00Z
+Clay County,37043,North Carolina,11231,258,"Cherokee, NC - Clay, NC",39843,1.7,7.5,293.83,Medium,2022-07-14T07:00:00Z
+Walton County,13297,Georgia,94593,153,"Fulton (Atlanta), GA - DeKalb, GA",3830463,4,9.2,112.06,Low,2022-06-16T07:00:00Z
+Logan County,31113,Nebraska,748,594,"Custer, NE - Valley, NE",20286,0,9.9,133.69,Low,2022-05-05T07:00:00Z
+Manassas City,51683,Virginia,41085,109,"Prince William (Dale City), VA - Fauquier, VA",600120,1.7,0.7,31.64,Low,2022-03-10T07:00:00Z
+Atkinson County,13003,Georgia,8165,236,"Coffee, GA - Jeff Davis, GA",66553,0.3,1.5,171.46,Low,2022-06-02T07:00:00Z
+Jefferson County,30043,Montana,12221,721,"Lewis and Clark, MT - Jefferson, MT",87890,5.4,14.8,139.1,Medium,2022-08-04T07:00:00Z
+District of Columbia,11001,District of Columbia,705749,61,"Montgomery, MD - Prince Georges, MD",2942531,5.3,8.2,84.02,Low,2022-09-01T07:00:00Z
+Ochiltree County,48357,Texas,9836,405,"Potter (Amarillo), TX - Randall, TX",350272,3.7,1.4,1209.84,Medium,2022-03-17T07:00:00Z
+Merrick County,31121,Nebraska,7755,555,"Hall, NE - Hamilton, NE",87233,0.2,0,12.89,Low,2022-04-21T07:00:00Z
+Bedford County,51019,Virginia,78997,14,"Roanoke City, VA - Roanoke, VA",592537,5.5,8.6,120.26,Low,2022-03-17T07:00:00Z
+Washington County,49053,Utah,177556,707,"Clark (Las Vegas), NV - Washington, UT",2511266,3.7,8.6,95.18,Low,2022-08-11T07:00:00Z
+Lincoln County,46083,South Dakota,61128,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,5.1,16.4,85.07,Medium,2022-09-01T07:00:00Z
+Cottonwood County,27033,Minnesota,11196,619,"Nobles, MN - Cottonwood, MN",50865,2.8,11.8,232.23,High,2022-07-28T07:00:00Z
+Barry County,26015,Michigan,61550,381,"Calhoun (Battle Creek), MI - Barry, MI",195709,5.4,9.2,82.86,Low,2022-06-23T07:00:00Z
+Wythe County,51197,Virginia,28684,70,"Montgomery, VA - Pulaski, VA",196215,4.1,9.2,191.74,Low,2022-06-23T07:00:00Z
+Dade County,29057,Missouri,7561,549,"Greene (Springfield), MO - Christian, MO",695270,2.8,5.9,145.48,Low,2022-06-23T07:00:00Z
+Newport News City,51700,Virginia,179225,5,"Newport News City, VA - Hampton City, VA",531945,1.6,2.8,52.45,Low,2022-03-17T07:00:00Z
+Clay County,47027,Tennessee,7615,215,"Putnam, TN - White, TN",154280,1.7,5.2,0,Low,2022-06-23T07:00:00Z
+Braxton County,54007,West Virginia,13957,92,"Harrison, WV - Upshur, WV",137567,2.5,13.1,200.62,High,2022-06-09T07:00:00Z
+Mitchell County,20123,Kansas,5979,622,"Mitchell, KS - Osborne, KS",12279,0.7,8.1,0,Low,2022-04-07T07:00:00Z
+Aibonito Muni,72009,Puerto Rico,22108,904,Puerto Rico,3193694,4.1,7.3,633.25,Medium,2022-06-23T07:00:00Z
+Doddridge County,54017,West Virginia,8448,92,"Harrison, WV - Upshur, WV",137567,14.9,37.8,603.69,High,2022-02-24T07:00:00Z
+El Paso County,48141,Texas,839238,415,"El Paso (El Paso), TX - Hudspeth, TX",846464,4.4,11.3,129.88,Medium,2022-09-01T07:00:00Z
+Toa Baja Muni,72137,Puerto Rico,74271,904,Puerto Rico,3193694,3.7,6.7,428.16,Medium,2022-08-25T07:00:00Z
+Douglas County,55031,Wisconsin,43150,289,"St. Louis (Duluth), MN - Itasca, MN",381133,3.8,8.4,150.64,Low,2022-07-21T07:00:00Z
+Turner County,13287,Georgia,7985,189,"Tift, GA - Ben Hill, GA",74745,10.4,18.7,237.95,High,2022-02-24T07:00:00Z
+Carbon County,30009,Montana,10725,691,"Yellowstone (Billings), MT - Big Horn, MT",210073,3.4,24.8,186.48,High,2022-07-21T07:00:00Z
+Butte County,46019,South Dakota,10429,558,"Pennington (Rapid City), SD - Meade, SD",171565,1.7,2.3,38.35,Low,2022-03-31T07:00:00Z
+Baker County,13007,Georgia,3038,144,"Dougherty (Albany), GA - Lee, GA",175755,9.4,15.9,65.83,Medium,2022-08-11T07:00:00Z
+Calloway County,21035,Kentucky,39001,115,"Calloway, KY - Henry, TN",115273,0.3,0.9,25.64,Low,2022-04-28T07:00:00Z
+Jefferson County,41031,Oregon,24658,719,"Deschutes, OR - Crook, OR",255479,5.8,0.4,344.72,Medium,2022-08-11T07:00:00Z
+Clayton County,13063,Georgia,292256,153,"Fulton (Atlanta), GA - DeKalb, GA",3830463,1.5,3.4,37.98,Low,2022-04-28T07:00:00Z
+Canyon County,16027,Idaho,229849,716,"Ada (Boise City), ID - Canyon, ID",788105,7,10,145.31,Medium,2022-08-11T07:00:00Z
+Faribault County,27043,Minnesota,13653,646,"Freeborn, MN - Faribault, MN",43934,6.8,18.2,205.08,High,2022-06-16T07:00:00Z
+Comanche County,20033,Kansas,1700,618,"Pratt, KS - Kiowa, KS",13339,0,0,0,Low,2022-05-12T07:00:00Z
+Franklin County,18047,Indiana,22758,270,"Hamilton (Cincinnati), OH - Butler, OH",1735525,1.8,4.1,26.36,Low,2022-05-12T07:00:00Z
+Nelson County,51125,Virginia,14930,99,"Albemarle, VA - Charlottesville City, VA",383641,1.3,5.2,60.28,Low,2022-04-28T07:00:00Z
+Wayne County,54099,West Virginia,39402,46,"Cabell (Huntington), WV - Lawrence, OH",346344,1.8,6.4,25.38,Low,2022-04-28T07:00:00Z
+Peñuelas Muni,72111,Puerto Rico,19249,904,Puerto Rico,3193694,3.9,6.3,503.92,Medium,2022-07-28T07:00:00Z
+Wood County,55141,Wisconsin,72999,282,"Marathon (Wausau), WI - Wood, WI",291401,2.7,12,273.98,High,2022-05-19T07:00:00Z
+Dodge County,13091,Georgia,20605,206,"Laurens, GA - Toombs, GA",144412,5.8,10.4,179.57,Medium,2022-07-28T07:00:00Z
+Grundy County,47061,Tennessee,13427,239,"Coffee, TN - Franklin, TN",118643,0.5,1.7,119.16,Low,2022-06-02T07:00:00Z
+Chase County,20017,Kansas,2648,567,"Lyon, KS - Coffey, KS",50004,4.3,8.0,75.53,Low,2022-09-01T07:00:00Z
+Shelby County,48419,Texas,25274,447,"Nacogdoches, TX - Shelby, TX",109257,2.9,4.6,51.44,Low,2022-03-17T07:00:00Z
+Walker County,48471,Texas,72971,449,"Angelina, TX - Walker, TX",225690,5.9,5.8,191.86,Low,2022-06-30T07:00:00Z
+Edwards County,20047,Kansas,2798,583,"Barton, KS - Pawnee, KS",38027,0.5,13.1,35.74,Medium,2022-05-19T07:00:00Z
+Lawrence County,05075,Arkansas,16406,571,"Craighead, AR - Greene, AR",257231,2,5.4,274.29,Medium,2022-03-17T07:00:00Z
+Accomack County,51001,Virginia,32316,137,"Accomack, VA - Northampton, VA",44026,4.3,9.1,133.06,Low,2022-06-02T07:00:00Z
+Dinwiddie County,51053,Virginia,28544,77,"Petersburg City, VA - Prince George, VA",138353,0.5,2.2,45.54,Low,2022-04-14T07:00:00Z
+Kingman County,20095,Kansas,7152,661,"Kingman, KS - Harper, KS",12588,0,15.9,69.91,Medium,2022-02-24T07:00:00Z
+Madison County,01089,Alabama,372909,210,"Madison (Huntsville), AL - Limestone, AL",557816,0.9,11.5,112.63,Medium,2022-05-19T07:00:00Z
+Towner County,38095,North Dakota,2189,638,"Rolette, ND - Pierce, ND",20340,1.9,9.8,274.1,Medium,2022-08-25T07:00:00Z
+Washburn County,55129,Wisconsin,15720,314,"Washburn, WI - Burnett, WI",31134,0.7,6.4,133.59,Low,2022-04-28T07:00:00Z
+Anne Arundel County,24003,Maryland,579234,16,"Baltimore, MD - Baltimore City, MD",2586756,4.1,7.7,151.41,Low,2022-06-16T07:00:00Z
+Martin County,12085,Florida,161000,221,"Palm Beach (West Palm Beach), FL - St. Lucie, FL",2028235,5.7,18.5,136.65,Medium,2022-09-01T07:00:00Z
+Benewah County,16009,Idaho,9298,734,"Kootenai, ID - Bonner, ID",245861,1.1,1.2,64.53,Low,2022-05-26T07:00:00Z
+Mingo County,54059,West Virginia,23424,13,"Pike, KY - Logan, WV",113319,1.9,13.2,38.42,Medium,2022-05-12T07:00:00Z
+Wetzel County,54103,West Virginia,15065,24,"Belmont, OH - Ohio (Wheeling), WV",176258,3.9,9.1,219.05,Medium,2022-08-18T07:00:00Z
+Fulton County,05049,Arkansas,12477,574,"Howell, MO - Independence, AR",152691,0.3,0,0,Low,2022-05-05T07:00:00Z
+Allegheny County,42003,Pennsylvania,1216045,42,"Allegheny (Pittsburgh), PA - Westmoreland, PA",2065534,4.6,10.7,233.96,High,2022-08-18T07:00:00Z
+Fluvanna County,51065,Virginia,27270,99,"Albemarle, VA - Charlottesville City, VA",383641,3.7,11.7,282.36,High,2022-05-26T07:00:00Z
+Pend Oreille County,53051,Washington,13724,698,"Spokane (Spokane), WA - Stevens, WA",620794,6.2,12.7,80.15,Medium,2022-07-28T07:00:00Z
+Hodgeman County,20083,Kansas,1794,551,"Ford, KS - Gray, KS",47428,4.9,12.7,55.74,Medium,2022-02-24T07:00:00Z
+Wheeler County,13309,Georgia,7855,206,"Laurens, GA - Toombs, GA",144412,1.9,3.5,25.46,Low,2022-03-24T07:00:00Z
+McDowell County,54047,West Virginia,17624,39,"Mercer, WV - Tazewell, VA",144261,6.2,14.6,533.36,High,2022-08-04T07:00:00Z
+Dillingham Census Area,02070,Alaska,4916,820,"Anchorage (Anchorage), AK - Matanuska-Susitna Borough, AK",547697,2.3,6.8,40.68,Low,2022-06-02T07:00:00Z
+Covington City,51580,Virginia,5538,30,"Greenbrier, WV - Alleghany Cnty and Clifton Forge Cty, VA",72482,2.8,12.4,216.68,High,2022-07-07T07:00:00Z
+Pinellas County,12103,Florida,974996,227,"Hillsborough (Tampa), FL - Pinellas, FL",3194831,1.5,5.9,100.1,Low,2022-05-05T07:00:00Z
+Comanche County,40031,Oklahoma,120749,493,"Comanche (Lawton), OK - Kiowa, OK",142373,0.3,2.1,33.95,Low,2022-06-09T07:00:00Z
+Hampshire County,25015,Massachusetts,160830,32,"Hampden (Springfield), MA - Hampshire, MA",627202,4.2,6.7,54.72,Low,2022-07-14T07:00:00Z
+Marshall County,01095,Alabama,96774,224,"Etowah (Gadsden), AL - Marshall, AL",296751,1.1,1.3,25.83,Low,2022-03-24T07:00:00Z
+Dodge County,31053,Nebraska,36565,542,"Douglas (Omaha), NE - Sarpy, NE",889657,3.9,5.6,128.54,Low,2022-06-16T07:00:00Z
+Isle of Wight County,51093,Virginia,37109,6,"Virginia Beach City, VA - Norfolk City, VA",1214527,3.8,10.5,167.08,Medium,2022-06-16T07:00:00Z
+Cleveland County,40027,Oklahoma,284014,430,"Cleveland (Norman), OK - McClain, OK",366272,1.2,4.4,122.88,Low,2022-06-09T07:00:00Z
+Deaf Smith County,48117,Texas,18546,491,"Deaf Smith, TX - Parmer, TX",28151,0,0,10.78,Low,2022-05-19T07:00:00Z
+Jackson County,19097,Iowa,19439,302,"Dubuque (Dubuque), IA - Stephenson, IL",182483,1.5,4.9,2361.23,Medium,2022-03-10T07:00:00Z
+Rio Blanco County,08103,Colorado,6324,711,"Mesa, CO - Garfield, CO",303243,4.9,12.2,253,High,2022-03-03T07:00:00Z
+Bremer County,19017,Iowa,25062,557,"Black Hawk (Waterloo), IA - Bremer, IA",223786,1.1,3.1,19.95,Low,2022-03-31T07:00:00Z
+Giles County,51071,Virginia,16720,70,"Montgomery, VA - Pulaski, VA",196215,6.3,8.7,113.64,Low,2022-03-17T07:00:00Z
+Erie County,36029,New York,918702,54,"Erie (Buffalo), NY - Monroe, NY",2070158,7.6,12.6,114.62,Medium,2022-06-09T07:00:00Z
+Wayne County,21231,Kentucky,20333,37,"Pulaski, KY - Wayne, KY",102543,0.9,2.9,98.36,Low,2022-06-30T07:00:00Z
+Hoonah-Angoon Census Area,02105,Alaska,2148,818,"Juneau City and Borough, AK - Sitka City and Borough, AK",46907,1.4,2.1,744.88,Medium,2022-03-17T07:00:00Z
+Nevada County,06057,California,99755,753,"Nevada, CA - Sierra, CA",102760,7.5,9.7,268.66,Medium,2022-07-07T07:00:00Z
+Medina County,48325,Texas,51584,410,"Bexar (San Antonio), TX - Guadalupe, TX",2455997,3.5,13.4,188.04,Medium,2022-07-07T07:00:00Z
+Minidoka County,16067,Idaho,21039,730,"Cassia, ID - Minidoka, ID",45069,5.8,15.5,175.86,Medium,2022-07-14T07:00:00Z
+Stone County,28131,Mississippi,18336,456,"Harrison (Biloxi), MS - Hancock, MS",274048,5.2,10.6,545.38,High,2022-08-18T07:00:00Z
+Hancock County,47067,Tennessee,6620,217,"Hamblen (Morristown), TN - Jefferson, TN",149369,1.9,2,151.06,Low,2022-05-19T07:00:00Z
+Glades County,12043,Florida,13811,165,"Lee (Cape Coral), FL - Collier, FL",1211312,1,3.3,7.24,Low,2022-04-14T07:00:00Z
+Gilchrist County,12041,Florida,18582,159,"Alachua (Gainesville), FL - Columbia, FL",528345,6.6,31.2,247.55,High,2022-08-25T07:00:00Z
+Cherokee County,01019,Alabama,26196,224,"Etowah (Gadsden), AL - Marshall, AL",296751,4.6,15.2,202.32,High,2022-08-11T07:00:00Z
+Lafayette Parish,22055,Louisiana,244390,424,"Lafayette (Lafayette), LA - Iberia, LA",489207,0.3,0.4,92.48,Low,2022-04-21T07:00:00Z
+Grundy County,17063,Illinois,51054,303,"Will (Joliet), IL - Grundy, IL",741797,6.5,11.9,274.22,High,2022-09-01T07:00:00Z
+Muskegon County,26121,Michigan,173566,296,"Muskegon (Muskegon), MI - Newaygo, MI",278157,4.5,6.8,176.3,Low,2022-08-18T07:00:00Z
+Camuy Muni,72027,Puerto Rico,30504,904,Puerto Rico,3193694,3.7,6.1,645.82,Medium,2022-07-21T07:00:00Z
+Essex County,36031,New York,36885,81,"Clinton, NY - Franklin, NY",167392,9.3,10.2,176.22,Medium,2022-04-28T07:00:00Z
+Lewis County,47101,Tennessee,12268,208,"Maury, TN - Giles, TN",172494,5.0,7.5,611.35,Medium,2022-08-25T07:00:00Z
+Dundy County,31057,Nebraska,1693,654,"Chase, NE - Dundy, NE",6539,2.1,15.3,177.2,Medium,2022-08-11T07:00:00Z
+Cabarrus County,37025,North Carolina,216453,235,"Cabarrus (Concord), NC - Rowan, NC",421347,6.2,11.4,322.47,High,2022-07-28T07:00:00Z
+Río Grande Muni,72119,Puerto Rico,48025,904,Puerto Rico,3193694,3.8,9.5,433.11,Medium,2022-08-04T07:00:00Z
+Delta County,26041,Michigan,35784,293,"Marquette, MI - Delta, MI",125914,3.1,8.7,187.23,Low,2022-06-30T07:00:00Z
+Richmond County,51159,Virginia,9023,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,6.8,12.7,132.99,Medium,2022-02-24T07:00:00Z
+Lake County,27075,Minnesota,10641,289,"St. Louis (Duluth), MN - Itasca, MN",381133,1.7,1.8,18.8,Low,2022-04-07T07:00:00Z
+St. Joseph County,18141,Indiana,271826,312,"St. Joseph (South Bend), IN - Marshall, IN",350411,2.5,6.8,171.07,Low,2022-05-26T07:00:00Z
+Alleghany County,37005,North Carolina,11137,73,"Carroll, VA - Grayson, VA",62825,3.5,12.7,26.94,Medium,2022-03-10T07:00:00Z
+Roger Mills County,40129,Oklahoma,3583,440,"Beckham, OK - Roger Mills, OK",25442,0.7,7.9,0,Low,2022-06-09T07:00:00Z
+Scott County,20171,Kansas,4823,575,"Finney, KS - Scott, KS",53170,1.2,3.8,435.41,Medium,2022-06-30T07:00:00Z
+Price County,55099,Wisconsin,13351,357,"Ashland, WI - Sawyer, WI",60507,3.6,3.3,44.94,Low,2022-05-05T07:00:00Z
+Hitchcock County,31087,Nebraska,2762,613,"Red Willow, NE - Decatur, KS",18834,0,0,0,Low,2022-03-31T07:00:00Z
+Spencer County,21215,Kentucky,19351,272,"Jefferson (Louisville), KY - Bullitt, KY",1077334,2.9,6.7,191.2,Low,2022-06-30T07:00:00Z
+Jefferson County,47089,Tennessee,54495,217,"Hamblen (Morristown), TN - Jefferson, TN",149369,13.6,8.7,183.5,Medium,2022-03-03T07:00:00Z
+Jefferson County,13163,Georgia,15362,250,"Washington, GA - Jefferson, GA",35736,0,0,279.91,Medium,2022-08-11T07:00:00Z
+Greensville County,51081,Virginia,11336,130,"Brunswick, VA - Greensville, VA",32913,0.7,6.1,141.14,Low,2022-07-07T07:00:00Z
+Page County,51139,Virginia,23902,63,"Rockingham, VA - Harrisonburg City, VA",165835,3.3,5.4,133.88,Low,2022-07-21T07:00:00Z
+Warren County,34041,New Jersey,105267,93,"Hunterdon, NJ - Warren (Phillipsburg), NJ",229638,1.9,7.8,250.79,Medium,2022-05-12T07:00:00Z
+Newton County,48351,Texas,13595,413,"Jefferson (Beaumont), TX - Orange, TX",463359,0.5,1.7,7.36,Low,2022-05-05T07:00:00Z
+Monroe County,29137,Missouri,8644,666,"Audrain, MO - Montgomery, MO",45583,NA,0,46.27,Low,2022-06-09T07:00:00Z
+Clay County,28025,Mississippi,19316,461,"Lowndes, MS - Clay, MS",102133,0.7,1,10.35,Low,2022-04-07T07:00:00Z
+Fayette County,54019,West Virginia,42406,60,"Raleigh, WV - Fayette, WV",148734,7.2,18.2,252.32,High,2022-07-07T07:00:00Z
+Lake County,12069,Florida,367118,142,"Orange (Orlando), FL - Volusia, FL",3033181,2.2,6.6,131.57,Low,2022-05-12T07:00:00Z
+Wayne County,31179,Nebraska,9385,577,"Madison, NE - Wayne, NE",63850,2.4,1.6,21.31,Low,2022-04-28T07:00:00Z
+Mason County,53045,Washington,66768,758,"Thurston (Olympia), WA - Lewis, WA",535543,3.5,5.8,155.76,Low,2022-05-19T07:00:00Z
+Monroe County,01099,Alabama,20733,161,"Mobile (Mobile), AL - Baldwin, AL",697125,3.7,15.1,289.39,High,2022-09-01T07:00:00Z
+Plaquemines Parish,22075,Louisiana,23197,403,"Orleans (New Orleans), LA - Jefferson, LA",1010111,0.4,1.5,12.93,Low,2022-03-31T07:00:00Z
+Craig County,40035,Oklahoma,14142,414,"Tulsa (Tulsa), OK - Rogers, OK",901902,0.8,2.3,28.28,Low,2022-04-21T07:00:00Z
+Roosevelt County,35041,New Mexico,18500,725,"Curry, NM - Roosevelt, NM",77455,1.4,7.7,351.35,Medium,2022-08-25T07:00:00Z
+Butts County,13035,Georgia,24936,204,"Spalding (Griffin), GA - Butts, GA",91639,1,3.3,36.09,Low,2022-04-28T07:00:00Z
+Toa Alta Muni,72135,Puerto Rico,72025,904,Puerto Rico,3193694,3.8,9.1,701.15,Medium,2022-06-09T07:00:00Z
+Wayne County,26163,Michigan,1749343,274,"Wayne (Detroit), MI - Oakland, MI",4440495,4.8,13.3,280.51,High,2022-08-18T07:00:00Z
+San Francisco County,06075,California,881549,757,"San Francisco (San Francisco), CA - San Mateo, CA",1648122,2,3.6,198.63,Low,2022-04-28T07:00:00Z
+Crawford County,55023,Wisconsin,16131,350,"Clayton, IA - Delaware, IA",50691,1,7.9,61.99,Low,2022-03-24T07:00:00Z
+Morgan County,29141,Missouri,20627,656,"Pettis, MO - Saline, MO",105170,6.6,1.9,63.02,Low,2022-03-03T07:00:00Z
+Montgomery County,48339,Texas,607391,408,"Harris (Houston), TX - Fort Bend, TX",6378597,5.2,12.8,220.78,High,2022-06-23T07:00:00Z
+Madison County,13195,Georgia,29880,164,"Clarke (Athens), GA - Barrow, GA",407567,2,3.2,73.63,Low,2022-06-09T07:00:00Z
+Lassen County,06035,California,30573,780,"Lassen, CA - Plumas, CA",49380,1.4,8.1,222.42,Medium,2022-07-28T07:00:00Z
+Green County,55045,Wisconsin,36960,326,"Rock (Janesville), WI - Green, WI",216979,3,4.6,91.99,Low,2022-03-10T07:00:00Z
+Union County,46127,South Dakota,15932,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,5.6,17.9,56.49,Medium,2022-08-11T07:00:00Z
+Seminole County,13253,Georgia,8090,228,"Decatur, GA - Seminole, GA",40212,0.7,0,98.89,Low,2022-03-10T07:00:00Z
+Missoula County,30063,Montana,119600,713,"Missoula, MT - Ravalli, MT",213753,0.5,4.7,69.4,Low,2022-04-21T07:00:00Z
+Mifflin County,42087,Pennsylvania,46138,110,"Mifflin, PA - Huntingdon, PA",116045,2.7,1.7,32.51,Low,2022-05-05T07:00:00Z
+Bourbon County,21017,Kentucky,19788,102,"Bourbon (Paris), KY - Nicholas, KY",27057,2.9,7.4,75.8,Low,2022-03-17T07:00:00Z
+Cass County,17017,Illinois,12147,318,"Sangamon (Springfield), IL - Christian, IL",322965,1.3,2.8,90.56,Low,2022-05-12T07:00:00Z
+Kenedy County,48261,Texas,404,437,"Nueces (Corpus Christi), TX - San Patricio, TX",554557,7.9,13.5,0.0,Medium,2022-08-25T07:00:00Z
+Schuyler County,17169,Illinois,6768,318,"Sangamon (Springfield), IL - Christian, IL",322965,2.8,10.8,132.98,Medium,2022-06-02T07:00:00Z
+Boulder County,08013,Colorado,326196,795,"Boulder, CO - Broomfield, CO",396661,2.8,4.3,105.46,Low,2022-03-10T07:00:00Z
+Garfield County,30033,Montana,1258,714,"Custer, MT - Fallon, MT",19517,1,35.9,79.49,High,2022-06-23T07:00:00Z
+Park County,56029,Wyoming,29194,749,"Park, WY - Big Horn, WY",40984,1.3,4.9,61.66,Low,2022-08-25T07:00:00Z
+Bibb County,01007,Alabama,22394,150,"Jefferson (Birmingham), AL - Shelby, AL",1237724,2.1,6.9,40.19,Low,2022-03-17T07:00:00Z
+Hand County,46059,South Dakota,3191,600,"Beadle, SD - Hand, SD",24958,1.5,8.0,62.68,Low,2022-08-25T07:00:00Z
+Lawrence County,46081,South Dakota,25844,586,"Campbell, WY - Lawrence, SD",79769,0,0,19.35,Low,2022-03-31T07:00:00Z
+Mason County,17125,Illinois,13359,277,"Peoria (Peoria), IL - Tazewell, IL",370119,2.7,13.5,172.17,Medium,2022-06-23T07:00:00Z
+Putnam County,54079,West Virginia,56450,7,"Kanawha (Charleston), WV - Putnam, WV",297149,1.9,2.4,44.29,Low,2022-04-14T07:00:00Z
+Upshur County,48459,Texas,41753,454,"Gregg (Longview), TX - Rusk, TX",243298,0.3,2.5,4.79,Low,2022-05-19T07:00:00Z
+Emery County,49015,Utah,10012,809,"Carbon, UT - Emery, UT",30475,2.7,9.8,199.76,Low,2022-08-04T07:00:00Z
+Steuben County,36101,New York,95379,65,"Steuben, NY - Chemung (Elmira), NY",196642,4.1,10.2,101.7,Medium,2022-08-25T07:00:00Z
+Hinsdale County,08053,Colorado,820,761,"Montrose, CO - Delta, CO",105333,1.1,0.9,121.95,Low,2022-05-12T07:00:00Z
+Yazoo County,28163,Mississippi,29690,533,"Yazoo, MS",29690,2.9,0,50.52,Low,2022-03-03T07:00:00Z
+Wilbarger County,48487,Texas,12769,458,"Wilbarger, TX - Hardeman, TX",17857,0,0,39.16,Low,2022-03-17T07:00:00Z
+Pickaway County,39129,Ohio,58457,281,"Franklin (Columbus), OH - Delaware, OH",1657646,2.2,6.8,126.59,Low,2022-06-02T07:00:00Z
+Pottawatomie County,20149,Kansas,24383,554,"Shawnee (Topeka), KS - Riley, KS",350379,6.4,14.6,139.44,Medium,2022-03-03T07:00:00Z
+McCone County,30055,Montana,1664,767,"Richland, MT - Dawson, MT",22049,2.5,45.4,0,High,2022-03-24T07:00:00Z
+Quebradillas Muni,72115,Puerto Rico,22918,904,Puerto Rico,3193694,3.9,8,824.68,Medium,2022-05-26T07:00:00Z
+Winnebago County,55139,Wisconsin,171907,306,"Winnebago (Oshkosh), WI - Fond du Lac, WI",406505,8.3,6.1,83.77,Low,2022-03-03T07:00:00Z
+Iron County,26071,Michigan,11066,315,"Marinette, WI - Dickinson, MI",103730,5.6,6.7,641.6,Medium,2022-08-25T07:00:00Z
+Lake County,39085,Ohio,230149,288,"Cuyahoga (Cleveland), OH - Lake, OH",1656111,2.9,9.8,127.74,Low,2022-06-16T07:00:00Z
+Tipton County,18159,Indiana,15148,364,"Howard (Kokomo), IN - Cass, IN",135381,1.4,5.2,72.62,Low,2022-06-09T07:00:00Z
+San Lorenzo Muni,72129,Puerto Rico,35989,904,Puerto Rico,3193694,0.6,0.9,30.56,Low,2022-03-10T07:00:00Z
+Cassia County,16031,Idaho,24030,730,"Cassia, ID - Minidoka, ID",45069,2.1,0,149.81,Low,2022-03-24T07:00:00Z
+Ouachita County,05103,Arkansas,23382,496,"Ouachita, AR - Dallas, AR",30391,1,6.6,188.18,Low,2022-06-23T07:00:00Z
+Onslow County,37133,North Carolina,197938,242,"Onslow, NC - Craven, NC",391695,4.1,8.9,216.73,Medium,2022-06-02T07:00:00Z
+Beckham County,40009,Oklahoma,21859,440,"Beckham, OK - Roger Mills, OK",25442,2.9,15.7,265.34,High,2022-07-21T07:00:00Z
+Chouteau County,30015,Montana,5635,692,"Cascade (Great Falls), MT - Glacier, MT",119555,2.9,20.9,195.21,High,2022-08-18T07:00:00Z
+Garfield County,31071,Nebraska,1969,594,"Custer, NE - Valley, NE",20286,4.2,24.6,50.79,High,2022-08-11T07:00:00Z
+Kendall County,48259,Texas,47431,410,"Bexar (San Antonio), TX - Guadalupe, TX",2455997,6.2,12.2,153.91,Medium,2022-03-03T07:00:00Z
+Bourbon County,20011,Kansas,14534,630,"Crawford, KS - Bourbon, KS",63055,2,3.2,137.61,Low,2022-06-23T07:00:00Z
+Marion County,13197,Georgia,8359,166,"Muscogee (Columbus), GA - Russell, AL",328912,4.5,3,35.89,Low,2022-03-31T07:00:00Z
+Washington County,41067,Oregon,601592,689,"Multnomah (Portland), OR - Washington, OR",2528534,3.8,3,25.27,Low,2022-03-24T07:00:00Z
+Musselshell County,30065,Montana,4633,691,"Yellowstone (Billings), MT - Big Horn, MT",210073,4.5,28.1,172.67,High,2022-08-11T07:00:00Z
+Orange County,50017,Vermont,28892,15,"Grafton, NH - Washington, VT",275395,3.5,8,128.06,Low,2022-06-09T07:00:00Z
+San Lorenzo Muni,72129,Puerto Rico,35989,904,Puerto Rico,3193694,3.8,9.1,794.69,Medium,2022-06-09T07:00:00Z
+Harmon County,40057,Oklahoma,2653,483,"Jackson, OK - Greer, OK",32895,1,6.1,603.09,Medium,2022-08-04T07:00:00Z
+Randolph County,18135,Indiana,24665,323,"Delaware (Muncie), IN - Randolph, IN",150558,2.2,7.3,125.68,Low,2022-06-09T07:00:00Z
+Stark County,17175,Illinois,5342,307,"Rock Island (Moline), IL - Henry, IL",211571,2.4,5.2,168.48,Low,2022-08-11T07:00:00Z
+Lincoln County,40081,Oklahoma,34877,417,"Oklahoma (Oklahoma City), OK - Canadian, OK",1101220,4.3,13.7,263.78,High,2022-07-21T07:00:00Z
+Delaware County,36025,New York,44135,58,"Otsego, NY - Chenango, NY",181834,4.1,8.8,97.43,Low,2022-08-25T07:00:00Z
+Washington County,27163,Minnesota,262440,286,"Ramsey (St. Paul), MN - Dakota, MN",1342144,5.9,8.9,173.75,Low,2022-07-28T07:00:00Z
+Stevens County,53065,Washington,45723,698,"Spokane (Spokane), WA - Stevens, WA",620794,1.6,5.2,67.8,Low,2022-05-05T07:00:00Z
+Aguada Muni,72003,Puerto Rico,36694,904,Puerto Rico,3193694,4.3,8.9,700.39,Medium,2022-06-16T07:00:00Z
+Camden County,37029,North Carolina,10867,264,"Pasquotank, NC - Dare, NC",101163,0.5,2,46.01,Low,2022-05-05T07:00:00Z
+San Joaquin County,06077,California,762148,750,"San Joaquin (Stockton), CA - Calaveras, CA",847805,6.5,13.3,272.26,High,2022-06-30T07:00:00Z
+Montgomery County,51121,Virginia,98535,70,"Montgomery, VA - Pulaski, VA",196215,4.2,2.5,74.09,Low,2022-03-24T07:00:00Z
+Scott County,21209,Kentucky,57004,18,"Fayette (Lexington-Fayette), KY - Jessamine, KY",591673,3.2,12.7,199.99,Medium,2022-06-09T07:00:00Z
+Etowah County,01055,Alabama,102268,224,"Etowah (Gadsden), AL - Marshall, AL",296751,4.6,5.4,33.25,Low,2022-03-10T07:00:00Z
+Edgefield County,45037,South Carolina,27260,152,"Richmond (South Augusta), GA - Aiken, SC",648284,5.4,12,0,Medium,2022-08-04T07:00:00Z
+Craighead County,05031,Arkansas,110332,571,"Craighead, AR - Greene, AR",257231,5.5,16.3,336.26,High,2022-08-04T07:00:00Z
+Russell County,20167,Kansas,6856,667,"Russell, KS",6856,0,0,14.59,Low,2022-03-17T07:00:00Z
+Perry County,39127,Ohio,36134,377,"Muskingum, OH - Guernsey, OH",226756,4.1,5.7,160.51,Low,2022-06-16T07:00:00Z
+Boone County,18011,Indiana,67843,401,"Boone, IN",67843,7.7,8.8,123.82,Low,2022-02-24T07:00:00Z
+Monroe County,54063,West Virginia,13275,30,"Greenbrier, WV - Alleghany Cnty and Clifton Forge Cty, VA",72482,1.1,4.1,105.46,Low,2022-04-28T07:00:00Z
+Brown County,39015,Ohio,43432,270,"Hamilton (Cincinnati), OH - Butler, OH",1735525,2.6,6.1,92.1,Low,2022-06-02T07:00:00Z
+Day County,46037,South Dakota,5424,572,"Brown, SD - Spink, SD",64081,1.7,9.4,36.87,Low,2022-06-30T07:00:00Z
+Grundy County,29079,Missouri,9850,683,"Grundy, MO - Mercer, MO",13467,2.9,0.0,243.65,Medium,2022-08-25T07:00:00Z
+Greene County,39057,Ohio,168937,295,"Montgomery (Dayton), OH - Greene, OH",792619,4.1,17.5,235.0,High,2022-08-25T07:00:00Z
+Newport News City,51700,Virginia,179225,5,"Newport News City, VA - Hampton City, VA",531945,0.7,3.4,93.74,Low,2022-04-28T07:00:00Z
+Hempstead County,05057,Arkansas,21532,404,"Bowie (Texarkana), TX - Miller, AR",248210,3.2,5.6,116.11,Low,2022-08-18T07:00:00Z
+Custer County,30017,Montana,11402,714,"Custer, MT - Fallon, MT",19517,0,0,17.54,Low,2022-05-05T07:00:00Z
+Morgan County,47129,Tennessee,21403,226,"Anderson (Oak Ridge), TN - Roane, TN",224772,2.3,3.6,93.44,Low,2022-06-16T07:00:00Z
+White County,18181,Indiana,24102,300,"Tippecanoe (Lafayette), IN - Clinton, IN",281238,6.6,16.0,319.48,High,2022-09-01T07:00:00Z
+Barnwell County,45011,South Carolina,20866,152,"Richmond (South Augusta), GA - Aiken, SC",648284,2,3.9,57.51,Low,2022-05-26T07:00:00Z
+Kidder County,38043,North Dakota,2480,543,"Burleigh (Bismarck), ND - Morton, ND",157852,3.7,17.7,120.97,Medium,2022-07-21T07:00:00Z
+Boundary County,16021,Idaho,12245,734,"Kootenai, ID - Bonner, ID",245861,5.9,7.3,89.83,Low,2022-08-25T07:00:00Z
+Willacy County,48489,Texas,21358,520,"Cameron (Brownsville), TX - Willacy, TX",444521,1.8,1.8,131.1,Low,2022-05-26T07:00:00Z
+Vance County,37181,North Carolina,44535,170,"Durham (Durham), NC - Granville, NC",485687,6.6,16.3,377.23,High,2022-07-28T07:00:00Z
+Greene County,18055,Indiana,31922,341,"Monroe (Bloomington), IN - Greene, IN",216244,4.7,6.9,87.71,Low,2022-05-26T07:00:00Z
+Somervell County,48425,Texas,9128,434,"Tarrant (Fort Worth), TX - Johnson, TX",2491981,0.8,2,10.96,Low,2022-04-21T07:00:00Z
+Ferry County,53019,Washington,7627,698,"Spokane (Spokane), WA - Stevens, WA",620794,1.6,6.6,39.33,Low,2022-05-12T07:00:00Z
+Isle of Wight County,51093,Virginia,37109,6,"Virginia Beach City, VA - Norfolk City, VA",1214527,1.4,3.2,80.84,Low,2022-05-12T07:00:00Z
+Orange County,06059,California,3175692,723,"Los Angeles (Los Angeles), CA - Orange, CA",13214799,2.3,4.5,205.66,Medium,2022-05-26T07:00:00Z
+Los Angeles County,06037,California,10039107,723,"Los Angeles (Los Angeles), CA - Orange, CA",13214799,4.2,8.3,325.94,Medium,2022-06-30T07:00:00Z
+Spotsylvania County,51177,Virginia,136215,135,"Stafford, VA - Spotsylvania, VA",375694,7.4,5.9,137.28,Low,2022-03-10T07:00:00Z
+St. Lawrence County,36089,New York,107740,80,"St. Lawrence, NY - Jefferson, NY",243870,3.1,9.4,103.03,Low,2022-08-04T07:00:00Z
+Dickey County,38021,North Dakota,4872,680,"Dickey, ND - LaMoure, ND",8918,0,0,123.15,Low,2022-07-07T07:00:00Z
+Lake County,12069,Florida,367118,142,"Orange (Orlando), FL - Volusia, FL",3033181,1.6,3.4,45.76,Low,2022-03-31T07:00:00Z
+Osage County,29151,Missouri,13615,581,"Cole, MO - Callaway, MO",224177,1.1,1.3,51.41,Low,2022-05-12T07:00:00Z
+Richland County,55103,Wisconsin,17252,301,"Dane (Madison), WI - Sauk, WI",776612,5,9,278.23,Medium,2022-08-18T07:00:00Z
+Dimmit County,48127,Texas,10124,531,"Dimmit, TX",10124,1.1,29.6,128.41,High,2022-08-25T07:00:00Z
+Decatur County,13087,Georgia,26404,228,"Decatur, GA - Seminole, GA",40212,0,0,15.15,Low,2022-05-26T07:00:00Z
+Lehigh County,42077,Pennsylvania,369318,84,"Lehigh (Allentown), PA - Northampton, PA",909056,2.2,13.1,158.4,Medium,2022-08-25T07:00:00Z
+Saluda County,45081,South Carolina,20473,187,"Laurens, SC - Greenwood, SC",192767,3.7,9.9,63.5,Low,2022-07-07T07:00:00Z
+Elliott County,21063,Kentucky,7517,67,"Rowan, KY - Morgan, KY",51775,1.2,7.7,66.52,Low,2022-05-19T07:00:00Z
+Dougherty County,13095,Georgia,87956,144,"Dougherty (Albany), GA - Lee, GA",175755,3.9,8,306.97,Medium,2022-06-30T07:00:00Z
+Saguache County,08109,Colorado,6824,731,"Alamosa, CO - Rio Grande, CO",47185,3.1,8.5,0,Low,2022-04-07T07:00:00Z
+Burke County,13033,Georgia,22383,152,"Richmond (South Augusta), GA - Aiken, SC",648284,4.8,3.4,17.87,Low,2022-03-10T07:00:00Z
+Orange County,06059,California,3175692,723,"Los Angeles (Los Angeles), CA - Orange, CA",13214799,2.5,3.3,63.1,Low,2022-03-24T07:00:00Z
+Fayette County,17051,Illinois,21336,363,"Effingham, IL - Fayette, IL",55344,4.4,5.4,51.56,Low,2022-03-10T07:00:00Z
+Boone County,21015,Kentucky,133581,2,"Kenton (Covington), KY - Campbell, KY",442691,4.2,3.6,139.99,Low,2022-06-09T07:00:00Z
+Garfield County,40047,Oklahoma,61056,429,"Garfield (Enid), OK - Kingfisher, OK",112707,0,0,4.91,Low,2022-04-14T07:00:00Z
+Winneshiek County,19191,Iowa,19991,395,"Winneshiek, IA",19991,0,0,15.01,Low,2022-03-24T07:00:00Z
+Monroe County,36055,New York,741770,54,"Erie (Buffalo), NY - Monroe, NY",2070158,3.9,9.9,89.92,Low,2022-07-14T07:00:00Z
+Finney County,20055,Kansas,36467,575,"Finney, KS - Scott, KS",53170,0.8,1.9,230.35,Medium,2022-09-01T07:00:00Z
+Nevada County,06057,California,99755,753,"Nevada, CA - Sierra, CA",102760,10.2,8.8,206.51,High,2022-07-21T07:00:00Z
+Prince George's County,24033,Maryland,909327,61,"Montgomery, MD - Prince Georges, MD",2942531,1.7,1.4,25.51,Low,2022-03-31T07:00:00Z
+Jennings County,18079,Indiana,27735,313,"Bartholomew, IN - Jackson, IN",182304,5.9,18.7,310.08,High,2022-08-25T07:00:00Z
+Kent County,44003,Rhode Island,164292,20,"Providence (Providence), RI - New London, CT",1242485,3,5.2,98,Low,2022-04-28T07:00:00Z
+Crawford County,29055,Missouri,23920,581,"Cole, MO - Callaway, MO",224177,7.8,4.9,37.63,Low,2022-03-10T07:00:00Z
+Boone County,29019,Missouri,180463,553,"Boone (Columbia), MO - Randolph, MO",261394,3.2,12.6,210.02,High,2022-06-30T07:00:00Z
+Lincoln County,47103,Tennessee,34366,210,"Madison (Huntsville), AL - Limestone, AL",557816,7.4,27.2,133.85,High,2022-08-18T07:00:00Z
+Renville County,27129,Minnesota,14548,602,"Brown, MN - Renville, MN",54726,4.9,12.8,323.07,High,2022-07-14T07:00:00Z
+Halifax County,51083,Virginia,33911,71,"Halifax with South Boston City, VA - Mecklenburg, VA",76694,6.5,19.6,294.89,High,2022-07-21T07:00:00Z
+Beaufort County,45013,South Carolina,192122,143,"Chatham (Savannah), GA - Beaufort, SC",732482,0.5,1.4,38.52,Low,2022-04-21T07:00:00Z
+Franklin County,53021,Washington,95222,702,"Benton (Kennewick), WA - Franklin, WA",299612,4.2,10.7,250.99,High,2022-07-14T07:00:00Z
+Steuben County,18151,Indiana,34594,304,"Allen (Fort Wayne), IN - Noble, IN",578690,1,4.7,2.89,Low,2022-03-17T07:00:00Z
+Richmond County,37153,North Carolina,44829,205,"Moore, NC - Richmond, NC",228116,4.3,7.9,205.22,Medium,2022-06-16T07:00:00Z
+Person County,37145,North Carolina,39490,170,"Durham (Durham), NC - Granville, NC",485687,7.1,17.1,367.18,High,2022-08-04T07:00:00Z
+Collin County,48085,Texas,1034730,453,"Dallas (Dallas), TX - Collin, TX",4244333,5.0,8.5,221.31,Medium,2022-08-25T07:00:00Z
+Madison County,39097,Ohio,44731,281,"Franklin (Columbus), OH - Delaware, OH",1657646,1.8,6.9,58.13,Low,2022-05-19T07:00:00Z
+Richmond County,51159,Virginia,9023,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,2.4,5,11.08,Low,2022-03-24T07:00:00Z
+Rock Island County,17161,Illinois,141879,307,"Rock Island (Moline), IL - Henry, IL",211571,2.1,6.6,245.28,Medium,2022-05-19T07:00:00Z
+Hockley County,48219,Texas,23021,406,"Lubbock (Lubbock), TX - Hockley, TX",391318,2.4,15.8,256.29,High,2022-07-14T07:00:00Z
+Benzie County,26019,Michigan,17766,271,"Grand Traverse, MI - Manistee, MI",198535,5.3,20.1,112.57,High,2022-06-16T07:00:00Z
+Tippah County,28139,Mississippi,22015,482,"Pontotoc, MS - Union, MS",83004,0,0,13.63,Low,2022-04-21T07:00:00Z
+Delaware County,42045,Pennsylvania,566747,28,"Philadelphia (Philadelphia), PA - Montgomery, PA",4134985,3.1,8.7,130.39,Low,2022-06-23T07:00:00Z
+Auglaize County,39011,Ohio,45656,292,"Allen (Lima), OH - Auglaize, OH",282680,0.3,1.8,21.9,Low,2022-05-05T07:00:00Z
+Kimball County,31105,Nebraska,3632,741,"Laramie (Cheyenne), WY - Cheyenne, NE",113836,1.9,8.8,0,Low,2022-04-07T07:00:00Z
+Jefferson County,19101,Iowa,18295,589,"Wapello, IA - Mahaska, IA",100356,0.7,2,16.4,Low,2022-05-05T07:00:00Z
+Wise County,48497,Texas,69984,495,"Denton (Denton), TX - Wise, TX",998448,4.6,2.7,47.15,Low,2022-03-10T07:00:00Z
+Union County,12125,Florida,15237,159,"Alachua (Gainesville), FL - Columbia, FL",528345,3.6,18.7,52.5,Medium,2022-06-09T07:00:00Z
+Barrow County,13013,Georgia,83240,164,"Clarke (Athens), GA - Barrow, GA",407567,4.7,12.3,259.49,High,2022-07-21T07:00:00Z
+Tom Green County,48451,Texas,119200,426,"Tom Green (San Angelo), TX - Runnels, TX",162408,1.7,13.5,345.64,High,2022-07-14T07:00:00Z
+Autauga County,01001,Alabama,55869,171,"Montgomery (Montgomery), AL - Autauga, AL",386117,3.9,9.8,468.95,Medium,2022-07-14T07:00:00Z
+Sussex County,34037,New Jersey,140488,87,"Morris (Parsippany-Troy Hills Township), NJ - Sussex, NJ",632333,1.9,7.3,196.46,Low,2022-04-28T07:00:00Z
+McNairy County,47109,Tennessee,25694,245,"Hardin, TN - McNairy, TN",51346,1,0,241.3,Medium,2022-06-23T07:00:00Z
+Addison County,50001,Vermont,36777,49,"Chittenden (Burlington), VT - Franklin, VT",257188,3.8,7.0,43.51,Low,2022-09-01T07:00:00Z
+Fort Bend County,48157,Texas,811688,408,"Harris (Houston), TX - Fort Bend, TX",6378597,5.2,12.8,310.59,High,2022-06-23T07:00:00Z
+Bourbon County,20011,Kansas,14534,630,"Crawford, KS - Bourbon, KS",63055,1.4,1.6,350.9,Medium,2022-09-01T07:00:00Z
+Perry County,05105,Arkansas,10455,432,"Pulaski (Little Rock), AR - Faulkner, AR",787837,1.1,5,66.95,Low,2022-06-02T07:00:00Z
+Baxter County,05005,Arkansas,41932,407,"Baxter, AR - Marion, AR",58626,2.3,18.8,85.85,Medium,2022-08-11T07:00:00Z
+Marion County,19125,Iowa,33253,546,"Polk (Des Moines), IA - Dallas, IA",763408,4.2,9.2,198.48,Low,2022-08-18T07:00:00Z
+Mercer County,34021,New Jersey,367430,126,"Mercer, NJ",367430,3.6,8.4,249.84,Medium,2022-06-30T07:00:00Z
+Stanislaus County,06099,California,550660,737,"Stanislaus (Modesto), CA - Merced, CA",900021,5.6,8.4,241.89,Medium,2022-06-16T07:00:00Z
+Martin County,48317,Texas,5771,492,"Midland (Midland), TX - Pecos, TX",202859,3.6,4.4,225.26,Medium,2022-03-03T07:00:00Z
+Daviess County,21059,Kentucky,101511,316,"Daviess (Owensboro), KY - Ohio, KY",162603,0.3,3.7,22.66,Low,2022-04-28T07:00:00Z
+Lake County,18089,Indiana,485493,308,"Lake (Gary), IN - Porter, IN",703428,2.3,5,152.83,Low,2022-06-23T07:00:00Z
+Cascade County,30013,Montana,81366,692,"Cascade (Great Falls), MT - Glacier, MT",119555,2.7,15.1,196.64,Medium,2022-06-23T07:00:00Z
+Centre County,42027,Pennsylvania,162385,26,"Centre (State College), PA - Clearfield, PA",285065,1.6,2.8,38.18,Low,2022-03-31T07:00:00Z
+Bradley County,05011,Arkansas,10763,473,"Jefferson (Pine Bluff), AR - Drew, AR",128147,3.2,4.7,288.02,Medium,2022-06-23T07:00:00Z
+Potter County,48375,Texas,117415,405,"Potter (Amarillo), TX - Randall, TX",350272,1.7,3.1,13.63,Low,2022-03-31T07:00:00Z
+Paulding County,39125,Ohio,18672,356,"Defiance, OH - Williams, OH",120457,1,0.8,21.42,Low,2022-05-05T07:00:00Z
+Wyoming County,42131,Pennsylvania,26794,78,"Luzerne (Wilkes-Barre), PA - Columbia, PA",409175,7.9,15.4,320.97,High,2022-05-19T07:00:00Z
+Morrill County,31123,Nebraska,4642,580,"Scotts Bluff, NE - Goshen, WY",69815,3.6,10,129.25,Medium,2022-08-18T07:00:00Z
+Seward County,31159,Nebraska,17284,561,"Lancaster (Lincoln), NE - Gage, NE",387173,2.3,9.3,109.93,Low,2022-08-04T07:00:00Z
+Carter County,29035,Missouri,5982,563,"Cape Girardeau, MO - Butler, MO",310071,6.1,18.4,284.19,High,2022-07-28T07:00:00Z
+Graham County,20065,Kansas,2482,565,"Ellis, KS - Rooks, KS",44188,0,0,0,Low,2022-05-05T07:00:00Z
+York County,42133,Pennsylvania,449058,48,"York (York), PA - Frederick, MD",811614,3.6,4.4,185.94,Low,2022-07-14T07:00:00Z
+Butler County,39017,Ohio,383134,270,"Hamilton (Cincinnati), OH - Butler, OH",1735525,6.7,5.4,111.45,Low,2022-03-10T07:00:00Z
+Amador County,06005,California,39752,750,"San Joaquin (Stockton), CA - Calaveras, CA",847805,2.1,4.8,77.98,Low,2022-05-19T07:00:00Z
+Childress County,48075,Texas,7306,512,"Childress, TX - Hall, TX",11668,0,0,0,Low,2022-05-05T07:00:00Z
+Norman County,27107,Minnesota,6375,547,"Cass (Fargo), ND - Clay, MN",346542,2.7,4.6,125.49,Low,2022-05-12T07:00:00Z
+Morton County,38059,North Dakota,31364,543,"Burleigh (Bismarck), ND - Morton, ND",157852,3.2,22.2,286.95,High,2022-07-14T07:00:00Z
+Warren County,39165,Ohio,234602,270,"Hamilton (Cincinnati), OH - Butler, OH",1735525,4.1,2.9,20.46,Low,2022-03-24T07:00:00Z
+Jefferson County,55055,Wisconsin,84769,387,"Walworth, WI - Jefferson, WI",188637,0.4,0,28.31,Low,2022-04-07T07:00:00Z
+Loudoun County,51107,Virginia,413538,69,"Fairfax, VA - Arlington, VA",1995976,1.4,2.7,149.2,Low,2022-04-28T07:00:00Z
+Winnebago County,55139,Wisconsin,171907,306,"Winnebago (Oshkosh), WI - Fond du Lac, WI",406505,0.6,1.5,153.57,Low,2022-04-28T07:00:00Z
+Gilliam County,41021,Oregon,1912,748,"Wasco, OR - Hood River, OR",88264,9.3,19.3,104.6,Medium,2022-08-04T07:00:00Z
+Thayer County,31169,Nebraska,5003,658,"Fillmore, NE - Thayer, NE",10465,0.5,19.1,219.87,High,2022-06-30T07:00:00Z
+Mendocino County,06045,California,86749,811,"Mendocino, CA",86749,1.5,3.5,77.23,Low,2022-04-28T07:00:00Z
+Barry County,26015,Michigan,61550,381,"Calhoun (Battle Creek), MI - Barry, MI",195709,3.2,1.5,21.12,Low,2022-04-14T07:00:00Z
+Bergen County,34003,New Jersey,932202,36,"Bergen, NJ - Hudson (Jersey City), NJ",2432208,4.5,9.4,201.46,Medium,2022-08-18T07:00:00Z
+Elbert County,08039,Colorado,26729,688,"Denver (Denver), CO - Jefferson, CO",2943519,3.1,10.9,119.72,Medium,2022-07-28T07:00:00Z
+Shiawassee County,26155,Michigan,68122,285,"Ingham (Lansing), MI - Eaton, MI",550391,3.7,6.7,158.54,Low,2022-05-05T07:00:00Z
+Orocovis Muni,72107,Puerto Rico,20220,904,Puerto Rico,3193694,0.6,0.9,39.56,Low,2022-03-10T07:00:00Z
+Ste. Genevieve County,29186,Missouri,17894,541,"St. Louis, MO - St. Louis City, MO",1743793,6.4,18.6,380.02,High,2022-07-21T07:00:00Z
+Kandiyohi County,27067,Minnesota,43199,592,"Kandiyohi, MN - Chippewa, MN",80597,2.2,1.2,175.93,Low,2022-05-26T07:00:00Z
+Norfolk City,51710,Virginia,242742,6,"Virginia Beach City, VA - Norfolk City, VA",1214527,3.5,9,177.55,Low,2022-07-07T07:00:00Z
+Butler County,42019,Pennsylvania,187853,42,"Allegheny (Pittsburgh), PA - Westmoreland, PA",2065534,4.2,10.4,227.84,High,2022-08-04T07:00:00Z
+Botetourt County,51023,Virginia,33419,14,"Roanoke City, VA - Roanoke, VA",592537,1.6,2,17.95,Low,2022-04-14T07:00:00Z
+Lincoln County,46083,South Dakota,61128,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,3,11,107.97,Medium,2022-07-14T07:00:00Z
+Le Sueur County,27079,Minnesota,28887,540,"Hennepin (Minneapolis), MN - Anoka, MN",2192126,5.3,8.3,152.32,Low,2022-06-09T07:00:00Z
+Bannock County,16005,Idaho,87808,696,"Bannock, ID - Bingham, ID",153986,1,2.6,30.75,Low,2022-04-28T07:00:00Z
+Walton County,13297,Georgia,94593,153,"Fulton (Atlanta), GA - DeKalb, GA",3830463,7.4,15.4,254.78,High,2022-08-11T07:00:00Z
+Grundy County,19075,Iowa,12232,557,"Black Hawk (Waterloo), IA - Bremer, IA",223786,3.8,11.6,114.45,Medium,2022-02-24T07:00:00Z
+Los Angeles County,06037,California,10039107,824,"Los Angeles (Los Angeles), CA",10039107,7,10.1,376.38,High,2022-08-04T07:00:00Z
+Mahaska County,19123,Iowa,22095,589,"Wapello, IA - Mahaska, IA",100356,0.7,2,27.16,Low,2022-05-05T07:00:00Z
+Saline County,17165,Illinois,23491,384,"Saline, IL - Gallatin, IL",36317,0,2.8,310.76,Medium,2022-06-30T07:00:00Z
+Marshall County,21157,Kentucky,31100,12,"McCracken, KY - Graves, KY",203211,1.3,5.4,45.02,Low,2022-03-24T07:00:00Z
+Pitkin County,08097,Colorado,17767,711,"Mesa, CO - Garfield, CO",303243,2.6,15.8,270.16,High,2022-07-21T07:00:00Z
+Tallahatchie County,28135,Mississippi,13809,422,"Coahoma, MS - Tallahatchie, MS",42725,0,0,115.87,Low,2022-05-19T07:00:00Z
+Sterling County,48431,Texas,1291,426,"Tom Green (San Angelo), TX - Runnels, TX",162408,0.1,0,0,Low,2022-03-24T07:00:00Z
+Midland County,48329,Texas,176832,492,"Midland (Midland), TX - Pecos, TX",202859,0.1,3,49.76,Low,2022-06-02T07:00:00Z
+Peach County,13225,Georgia,27546,193,"Bibb (Macon), GA - Houston, GA",456389,1.8,5.9,203.3,Medium,2022-06-23T07:00:00Z
+McLean County,38055,North Dakota,9450,543,"Burleigh (Bismarck), ND - Morton, ND",157852,1.4,0.6,10.58,Low,2022-04-28T07:00:00Z
+Hitchcock County,31087,Nebraska,2762,613,"Red Willow, NE - Decatur, KS",18834,3.3,10.6,36.21,Medium,2022-06-02T07:00:00Z
+Juneau Cty&Bor,02110,Alaska,31974,818,"Juneau City and Borough, AK - Sitka City and Borough, AK",46907,3,2.1,212.67,Medium,2022-08-18T07:00:00Z
+Hardee County,12049,Florida,26937,202,"Polk (Lakeland), FL - Highlands, FL",857935,2.3,7.9,55.69,Low,2022-05-12T07:00:00Z
+Murray County,13213,Georgia,40096,145,"Whitfield, GA - Murray, GA",144724,2.1,0,149.64,Low,2022-07-07T07:00:00Z
+Macomb County,26099,Michigan,873972,274,"Wayne (Detroit), MI - Oakland, MI",4440495,2.3,4.8,114.65,Low,2022-03-24T07:00:00Z
+Tate County,28137,Mississippi,28321,146,"Shelby (Memphis), TN - DeSoto, MS",1340541,3.4,2.5,141.24,Low,2022-03-10T07:00:00Z
+Howard County,29089,Missouri,10001,553,"Boone (Columbia), MO - Randolph, MO",261394,4.3,6.9,30,Low,2022-03-10T07:00:00Z
+Laclede County,29105,Missouri,35723,549,"Greene (Springfield), MO - Christian, MO",695270,2.6,6.9,81.18,Low,2022-06-16T07:00:00Z
+Seminole County,12117,Florida,471826,142,"Orange (Orlando), FL - Volusia, FL",3033181,6.1,15.7,259.42,High,2022-06-23T07:00:00Z
+Kiowa County,08061,Colorado,1406,745,"Otero, CO - Prowers, CO",43494,0,0,142.25,Low,2022-03-10T07:00:00Z
+Polk County,12105,Florida,724777,202,"Polk (Lakeland), FL - Highlands, FL",857935,4.6,15.9,261.74,High,2022-09-01T07:00:00Z
+Benton County,47005,Tennessee,16160,115,"Calloway, KY - Henry, TN",115273,4.8,9.5,222.77,Medium,2022-08-11T07:00:00Z
+Boone County,29019,Missouri,180463,553,"Boone (Columbia), MO - Randolph, MO",261394,0.8,1.1,69.27,Low,2022-04-21T07:00:00Z
+Piute County,49031,Utah,1479,707,"Clark (Las Vegas), NV - Washington, UT",2511266,3.7,8.6,67.61,Low,2022-08-11T07:00:00Z
+Muscogee County,13215,Georgia,195769,166,"Muscogee (Columbus), GA - Russell, AL",328912,7.5,13.7,159.37,Medium,2022-08-11T07:00:00Z
+Ward County,48475,Texas,11998,444,"Ector (Odessa), TX - Reeves, TX",207004,2.6,9.7,191.7,Low,2022-07-14T07:00:00Z
+Claiborne County,28021,Mississippi,8988,431,"Warren, MS - Madison, LA",65320,1.7,1.5,100.13,Low,2022-02-24T07:00:00Z
+Swain County,37173,North Carolina,14271,209,"Jackson, NC - Macon, NC",102508,2.5,2.9,231.24,Medium,2022-07-14T07:00:00Z
+Tunica County,28143,Mississippi,9632,146,"Shelby (Memphis), TN - DeSoto, MS",1340541,4.3,10.2,301.08,High,2022-06-16T07:00:00Z
+Campbell County,46021,South Dakota,1376,648,"Dewey, SD - Walworth, SD",18942,0.3,5.3,0.0,Low,2022-09-01T07:00:00Z
+Presque Isle County,26141,Michigan,12592,371,"Alpena, MI - Presque Isle, MI",60730,18.6,13.2,0,High,2022-03-10T07:00:00Z
+Gosper County,31073,Nebraska,1990,570,"Buffalo, NE - Dawson, NE",90346,3.0,12.2,50.25,Medium,2022-08-25T07:00:00Z
+Clarendon County,45027,South Carolina,33745,196,"Sumter, SC - Clarendon, SC",157294,1,3.2,118.54,Low,2022-06-23T07:00:00Z
+Clarion County,42031,Pennsylvania,38438,52,"Venango, PA - Clarion, PA",96353,0.4,5.2,15.61,Low,2022-04-14T07:00:00Z
+Warrick County,18173,Indiana,62998,273,"Vanderburgh (Evansville), IN - Warrick, IN",335332,1.1,7.8,165.08,Low,2022-06-02T07:00:00Z
+Panola County,48365,Texas,23194,454,"Gregg (Longview), TX - Rusk, TX",243298,3.2,0.8,155.21,Low,2022-03-10T07:00:00Z
+White County,17193,Illinois,13537,383,"White, IL - Hamilton, IL",21653,0,0,44.32,Low,2022-05-05T07:00:00Z
+Morgan County,13211,Georgia,19276,164,"Clarke (Athens), GA - Barrow, GA",407567,6.3,15.2,238.64,High,2022-08-04T07:00:00Z
+Aroostook County,23003,Maine,67055,136,"Aroostook, ME",67055,2.7,4.5,95.44,Low,2022-06-30T07:00:00Z
+Dickinson County,19059,Iowa,17258,625,"Clay, IA - Dickinson, IA",42160,0.1,7.1,139.07,Low,2022-07-14T07:00:00Z
+Bee County,48025,Texas,32565,513,"Bee, TX - Karnes, TX",48166,2.3,4.2,294.8,Medium,2022-07-21T07:00:00Z
+Trousdale County,47169,Tennessee,11284,231,"Sumner (Hendersonville), TN - Wilson, TN",391983,3.8,4.6,115.21,Low,2022-06-16T07:00:00Z
+Perry County,17145,Illinois,20916,331,"Williamson, IL - Jackson, IL",182732,5.1,27.9,325.11,High,2022-07-21T07:00:00Z
+Nance County,31125,Nebraska,3519,651,"Platte, NE - Boone, NE",42181,5.8,4.7,56.83,Low,2022-07-14T07:00:00Z
+Douglas County,41019,Oregon,110980,782,"Lane (Eugene), OR - Douglas, OR",493047,5.9,13.4,350.51,High,2022-08-04T07:00:00Z
+Philadelphia County,42101,Pennsylvania,1584064,28,"Philadelphia (Philadelphia), PA - Montgomery, PA",4134985,1.9,6.2,100.63,Low,2022-05-05T07:00:00Z
+Santa Isabel Muni,72133,Puerto Rico,21209,904,Puerto Rico,3193694,1.3,4.7,240.46,Medium,2022-04-21T07:00:00Z
+Cassia County,16031,Idaho,24030,730,"Cassia, ID - Minidoka, ID",45069,0,0,4.16,Low,2022-05-12T07:00:00Z
+Walthall County,28147,Mississippi,14286,477,"Pike, MS - Marion, MS",90444,7.8,16.6,447.99,High,2022-07-28T07:00:00Z
+Wadena County,27159,Minnesota,13682,612,"Crow Wing, MN - Cass, MN",145893,7.1,11.7,255.81,High,2022-07-21T07:00:00Z
+Gilmer County,54021,West Virginia,7823,92,"Harrison, WV - Upshur, WV",137567,7.5,22.5,357.92,High,2022-08-25T07:00:00Z
+Pike County,39131,Ohio,27772,337,"Scioto, OH - Ross, OH",193027,0,0,10.8,Low,2022-04-21T07:00:00Z
+Kittson County,27069,Minnesota,4298,604,"Pennington, MN - Marshall, MN",31808,1.3,9.4,279.2,Medium,2022-08-18T07:00:00Z
+Indian River County,12061,Florida,159923,237,"Brevard (Palm Bay), FL - Indian River, FL",761865,2,4.5,130.69,Low,2022-05-05T07:00:00Z
+Hardin County,48199,Texas,57602,413,"Jefferson (Beaumont), TX - Orange, TX",463359,0.6,1.9,13.89,Low,2022-05-19T07:00:00Z
+Mahaska County,19123,Iowa,22095,589,"Wapello, IA - Mahaska, IA",100356,0.4,3,99.57,Low,2022-05-19T07:00:00Z
+Coos County,33007,New Hampshire,31563,138,"Coos, NH - Essex, VT",37726,0,0,262.97,Medium,2022-04-14T07:00:00Z
+Blaine County,16013,Idaho,23021,808,"Blaine, ID - Camas, ID",24127,0.6,4.1,117.28,Low,2022-08-11T07:00:00Z
+Norman County,27107,Minnesota,6375,547,"Cass (Fargo), ND - Clay, MN",346542,2.2,6.1,47.06,Low,2022-07-14T07:00:00Z
+Campbell County,56005,Wyoming,46341,586,"Campbell, WY - Lawrence, SD",79769,0,0,30.21,Low,2022-05-26T07:00:00Z
+Stanton County,31167,Nebraska,5920,577,"Madison, NE - Wayne, NE",63850,5.5,15.7,101.35,Medium,2022-07-21T07:00:00Z
+Hancock County,23009,Maine,54987,17,"Penobscot (Bangor), ME - Hancock, ME",255299,2.3,10.6,87.29,Medium,2022-04-14T07:00:00Z
+Braxton County,54007,West Virginia,13957,92,"Harrison, WV - Upshur, WV",137567,14,32,694.99,High,2022-03-03T07:00:00Z
+Northampton County,42095,Pennsylvania,305285,84,"Lehigh (Allentown), PA - Northampton, PA",909056,2.4,11.2,158.21,Medium,2022-09-01T07:00:00Z
+Stark County,39151,Ohio,370606,347,"Stark (Canton), OH - Wayne, OH",649177,2.2,6.5,111.17,Low,2022-05-19T07:00:00Z
+Chemung County,36015,New York,83456,65,"Steuben, NY - Chemung (Elmira), NY",196642,4.6,9.2,61.11,Low,2022-06-23T07:00:00Z
+Coos County,33007,New Hampshire,31563,138,"Coos, NH - Essex, VT",37726,2.9,15.9,107.72,Medium,2022-06-16T07:00:00Z
+Ashe County,37009,North Carolina,27203,194,"Watauga, NC - Ashe, NC",101168,0.2,1,55.14,Low,2022-04-14T07:00:00Z
+Lavaca County,48285,Texas,20154,433,"Victoria (Victoria), TX - Calhoun, TX",183054,3.2,13.7,114.12,Medium,2022-09-01T07:00:00Z
+Titus County,48449,Texas,32750,465,"Titus, TX - Morris, TX",68957,0.4,0,33.59,Low,2022-04-14T07:00:00Z
+Maunabo Muni,72095,Puerto Rico,10321,904,Puerto Rico,3193694,3.9,8.4,542.58,Medium,2022-08-11T07:00:00Z
+Faribault County,27043,Minnesota,13653,646,"Freeborn, MN - Faribault, MN",43934,3.3,4.6,29.3,Low,2022-03-24T07:00:00Z
+Tom Green County,48451,Texas,119200,426,"Tom Green (San Angelo), TX - Runnels, TX",162408,0.3,3.7,91.44,Low,2022-06-02T07:00:00Z
+Muskogee County,40101,Oklahoma,67997,445,"Muskogee, OK - Wagoner, OK",239733,2.6,5.8,48.53,Low,2022-06-02T07:00:00Z
+San Germán Muni,72125,Puerto Rico,30227,904,Puerto Rico,3193694,0.4,1.6,43.01,Low,2022-04-07T07:00:00Z
+Emporia City,51595,Virginia,5346,130,"Brunswick, VA - Greensville, VA",32913,4.1,18.2,168.35,Medium,2022-09-01T07:00:00Z
+Weston County,56045,Wyoming,6927,804,"Weston, WY",6927,0.0,0.0,259.85,Medium,2022-08-25T07:00:00Z
+Natrona County,56025,Wyoming,79858,726,"Natrona (Casper), WY - Converse, WY",93680,1,5.3,147.76,Low,2022-06-09T07:00:00Z
+Knox County,31107,Nebraska,8332,578,"Yankton, SD - Clay, SD",67810,0.1,0,12,Low,2022-04-07T07:00:00Z
+Bingham County,16011,Idaho,46811,696,"Bannock, ID - Bingham, ID",153986,1.6,4.5,89.72,Low,2022-06-16T07:00:00Z
+Alamosa County,08003,Colorado,16233,731,"Alamosa, CO - Rio Grande, CO",47185,0,0,43.12,Low,2022-05-19T07:00:00Z
+Union County,37179,North Carolina,239859,167,"Mecklenburg (Charlotte), NC - Union, NC",1374661,2.2,5.9,233.47,Medium,2022-06-02T07:00:00Z
+Wyandot County,39175,Ohio,21772,354,"Marion, OH - Crawford, OH",222675,7.9,12.6,119.42,Medium,2022-07-21T07:00:00Z
+Franklin County,16041,Idaho,13876,715,"Cache, UT - Franklin, ID",148290,0.9,10.8,144.13,Medium,2022-06-30T07:00:00Z
+Wibaux County,30109,Montana,969,767,"Richland, MT - Dawson, MT",22049,2.3,13.6,0,Medium,2022-07-21T07:00:00Z
+San Sebastián Muni,72131,Puerto Rico,35528,904,Puerto Rico,3193694,1.3,4.7,273.02,Medium,2022-04-21T07:00:00Z
+Adams County,42001,Pennsylvania,103009,48,"York (York), PA - Frederick, MD",811614,1.2,0.7,48.54,Low,2022-04-14T07:00:00Z
+Bonneville County,16019,Idaho,119062,722,"Bonneville, ID - Madison, ID",221838,0.5,0,5.04,Low,2022-04-07T07:00:00Z
+Presque Isle County,26141,Michigan,12592,371,"Alpena, MI - Presque Isle, MI",60730,6,8.2,7.94,Low,2022-07-21T07:00:00Z
+Bethel CA,02050,Alaska,18386,820,"Anchorage (Anchorage), AK - Matanuska-Susitna Borough, AK",547697,4.5,13,788.64,High,2022-08-11T07:00:00Z
+Floyd County,51063,Virginia,15749,14,"Roanoke City, VA - Roanoke, VA",592537,1.3,2.5,25.4,Low,2022-04-21T07:00:00Z
+Linn County,19113,Iowa,226706,545,"Linn (Cedar Rapids), IA - Johnson, IA",491983,1,2.6,45.43,Low,2022-04-14T07:00:00Z
+Trousdale County,47169,Tennessee,11284,231,"Sumner (Hendersonville), TN - Wilson, TN",391983,2.2,1.8,17.72,Low,2022-03-17T07:00:00Z
+Banner County,31007,Nebraska,745,580,"Scotts Bluff, NE - Goshen, WY",69815,0.7,4.3,0,Low,2022-06-16T07:00:00Z
+Wilkin County,27167,Minnesota,6207,547,"Cass (Fargo), ND - Clay, MN",346542,6.2,5.8,177.22,Low,2022-03-03T07:00:00Z
+York County,31185,Nebraska,13679,611,"York, NE - Polk, NE",18892,0,0,153.52,Low,2022-06-16T07:00:00Z
+Garvin County,40049,Oklahoma,27711,430,"Cleveland (Norman), OK - McClain, OK",366272,1.4,7.6,36.09,Low,2022-04-14T07:00:00Z
+Manistee County,26101,Michigan,24558,271,"Grand Traverse, MI - Manistee, MI",198535,4.3,10.1,97.73,Medium,2022-06-09T07:00:00Z
+Daviess County,29061,Missouri,8278,548,"Jackson (Kansas City), MO - Clay, MO",1310630,1.7,5.3,72.48,Low,2022-05-12T07:00:00Z
+Wyoming County,36121,New York,39859,54,"Erie (Buffalo), NY - Monroe, NY",2070158,2.3,3.2,15.05,Low,2022-03-31T07:00:00Z
+Benton County,05007,Arkansas,279141,446,"Washington (Fayetteville), AR - Benton, AR",577913,4.4,6.2,72.72,Low,2022-03-10T07:00:00Z
+Falls County,48145,Texas,17297,462,"McLennan (Waco), TX - Hill, TX",361152,1.4,2.2,40.47,Low,2022-06-02T07:00:00Z
+Grant County,41023,Oregon,7199,806,"Grant, OR",7199,0,0,333.38,Medium,2022-06-30T07:00:00Z
+Jefferson Davis County,28065,Mississippi,11128,504,"Jefferson Davis, MS - Lawrence, MS",23714,1.8,8.4,413.37,Medium,2022-07-07T07:00:00Z
+Venango County,42121,Pennsylvania,50668,52,"Venango, PA - Clarion, PA",96353,1.4,3.1,25.66,Low,2022-04-21T07:00:00Z
+Oneida County,36065,New York,228671,59,"Oneida (Utica), NY - Madison, NY",360931,3.7,4.2,107.58,Low,2022-08-04T07:00:00Z
+Oswego County,36075,New York,117124,56,"Onondaga (Syracuse), NY - Oswego, NY",654228,3.5,8.9,112.7,Low,2022-07-28T07:00:00Z
+Clinch County,13065,Georgia,6618,174,"Ware, GA - Pierce, GA",72981,1.1,4.1,75.55,Low,2022-06-23T07:00:00Z
+Jones County,19105,Iowa,20681,545,"Linn (Cedar Rapids), IA - Johnson, IA",491983,3.4,10.2,33.85,Medium,2022-03-03T07:00:00Z
+Isabela Muni,72071,Puerto Rico,40423,904,Puerto Rico,3193694,1.3,4.7,190.49,Low,2022-04-21T07:00:00Z
+Custer County,30017,Montana,11402,714,"Custer, MT - Fallon, MT",19517,0.4,25.6,61.39,High,2022-07-07T07:00:00Z
+Fluvanna County,51065,Virginia,27270,99,"Albemarle, VA - Charlottesville City, VA",383641,4.5,12.8,172.35,Medium,2022-07-21T07:00:00Z
+Santa Cruz County,06087,California,273213,802,"Santa Cruz, CA",273213,1.1,4.4,303.06,Medium,2022-05-12T07:00:00Z
+Bonneville County,16019,Idaho,119062,722,"Bonneville, ID - Madison, ID",221838,1.3,4.1,109.19,Low,2022-09-01T07:00:00Z
+Campbell County,51031,Virginia,54885,14,"Roanoke City, VA - Roanoke, VA",592537,2,6.1,136.65,Low,2022-05-12T07:00:00Z
+Hampton County,45049,South Carolina,19222,212,"Charleston (Charleston), SC - Berkeley, SC",859021,3.1,10.2,239.31,High,2022-07-21T07:00:00Z
+Barnstable County,25001,Massachusetts,212990,22,"Middlesex, MA - Suffolk (Boston), MA",3885304,4.4,14.1,344.62,High,2022-05-19T07:00:00Z
+Clarion County,42031,Pennsylvania,38438,52,"Venango, PA - Clarion, PA",96353,1.2,2.1,26.02,Low,2022-03-24T07:00:00Z
+Camden County,37029,North Carolina,10867,264,"Pasquotank, NC - Dare, NC",101163,3.4,7.9,276.07,Medium,2022-03-03T07:00:00Z
+Somerset County,23025,Maine,50484,38,"Kennebec, ME - Somerset, ME",212501,6,8.5,253.55,Medium,2022-05-12T07:00:00Z
+Gilmer County,54021,West Virginia,7823,92,"Harrison, WV - Upshur, WV",137567,6.1,12.4,204.53,High,2022-06-23T07:00:00Z
+Dodge County,55027,Wisconsin,87839,306,"Winnebago (Oshkosh), WI - Fond du Lac, WI",406505,3.1,4.4,159.38,Low,2022-05-12T07:00:00Z
+Mercer County,17131,Illinois,15437,307,"Rock Island (Moline), IL - Henry, IL",211571,1.8,2.8,110.13,Low,2022-06-09T07:00:00Z
+Sevier County,47155,Tennessee,98250,147,"Knox (Knoxville), TN - Blount, TN",888452,13.2,15.1,324.68,High,2022-02-24T07:00:00Z
+Pike County,21195,Kentucky,57876,13,"Pike, KY - Logan, WV",113319,3.3,20.3,152.05,High,2022-06-09T07:00:00Z
+Houston County,01069,Alabama,105882,162,"Houston (Dothan), AL - Dale, AL",277857,1.2,2.2,18.89,Low,2022-04-07T07:00:00Z
+Jefferson County,53031,Washington,32221,785,"Clallam, WA - Jefferson, WA",109552,2.2,7.3,58.97,Low,2022-04-14T07:00:00Z
+Redwood County,27127,Minnesota,15170,602,"Brown, MN - Renville, MN",54726,5.7,5.5,184.57,Low,2022-03-03T07:00:00Z
+Belmont County,39013,Ohio,67006,24,"Belmont, OH - Ohio (Wheeling), WV",176258,7.6,18.7,147.75,Medium,2022-02-24T07:00:00Z
+Daggett County,49009,Utah,950,799,"Sweetwater, WY - Daggett, UT",43293,0,0,0,Low,2022-04-07T07:00:00Z
+Freestone County,48161,Texas,19717,489,"Navarro, TX - Freestone, TX",69830,0,1.4,60.86,Low,2022-04-28T07:00:00Z
+King and Queen County,51097,Virginia,7025,33,"Henrico (Richmond), VA - Chesterfield, VA",1291086,3.5,7.2,28.47,Low,2022-03-10T07:00:00Z
+Jersey County,17083,Illinois,21773,299,"Madison (Alton), IL - Jersey, IL",305904,1.4,2,87.26,Low,2022-05-05T07:00:00Z
+Cabell County,54011,West Virginia,91945,46,"Cabell (Huntington), WV - Lawrence, OH",346344,4,12.7,194.68,Medium,2022-05-19T07:00:00Z
+Clark County,32003,Nevada,2266715,707,"Clark (Las Vegas), NV - Washington, UT",2511266,3.7,8.6,112.85,Low,2022-08-11T07:00:00Z
+Monroe County,55081,Wisconsin,46253,290,"La Crosse (La Crosse), WI - Monroe, WI",257027,3.8,9.3,77.83,Low,2022-03-03T07:00:00Z
+Treasure County,30103,Montana,696,691,"Yellowstone (Billings), MT - Big Horn, MT",210073,2.9,22.4,0.0,High,2022-08-25T07:00:00Z
+Obion County,47131,Tennessee,30069,181,"Weakley, TN - Obion, TN",69366,0.1,1.4,0,Low,2022-04-14T07:00:00Z
+Las Piedras Muni,72085,Puerto Rico,37007,904,Puerto Rico,3193694,3.5,6.6,375.6,Medium,2022-09-01T07:00:00Z
+Kidder County,38043,North Dakota,2480,543,"Burleigh (Bismarck), ND - Morton, ND",157852,1,1.9,0,Low,2022-05-12T07:00:00Z
+Mercer County,17131,Illinois,15437,307,"Rock Island (Moline), IL - Henry, IL",211571,1.3,3.3,32.39,Low,2022-04-21T07:00:00Z
+Washington County,13303,Georgia,20374,250,"Washington, GA - Jefferson, GA",35736,0,0,161.97,Low,2022-06-02T07:00:00Z
+Metcalfe County,21169,Kentucky,10071,53,"Barren, KY - Hart, KY",84005,1.9,7.1,119.15,Low,2022-06-16T07:00:00Z
+Mercer County,39107,Ohio,41172,292,"Allen (Lima), OH - Auglaize, OH",282680,0.8,5.7,48.58,Low,2022-06-16T07:00:00Z
+Coconino County,04005,Arizona,143476,699,"Maricopa (Phoenix), AZ - Pinal, AZ",5380796,1.2,3.8,115,Low,2022-05-05T07:00:00Z
+Fayette County,13113,Georgia,114421,153,"Fulton (Atlanta), GA - DeKalb, GA",3830463,6.3,7.5,67.3,Low,2022-03-03T07:00:00Z
+Turner County,46125,South Dakota,8384,544,"Minnehaha (Sioux Falls), SD - Lincoln, SD",335949,3.4,6,35.78,Low,2022-03-24T07:00:00Z
+Coffee County,01031,Alabama,52342,162,"Houston (Dothan), AL - Dale, AL",277857,5,7.6,42.03,Low,2022-03-10T07:00:00Z
+Prentiss County,28117,Mississippi,25126,418,"Lee, MS - Monroe, MS",186307,2.5,0.5,55.72,Low,2022-03-10T07:00:00Z
+Etowah County,01055,Alabama,102268,224,"Etowah (Gadsden), AL - Marshall, AL",296751,0.5,1.7,16.62,Low,2022-05-19T07:00:00Z
+Lafayette County,05073,Arkansas,6624,404,"Bowie (Texarkana), TX - Miller, AR",248210,2,3.2,60.39,Low,2022-03-10T07:00:00Z
+Bienville Parish,22013,Louisiana,13241,439,"Lincoln, LA - Union, LA",97835,0.7,3.1,264.33,Medium,2022-08-25T07:00:00Z
+Alfalfa County,40003,Oklahoma,5702,429,"Garfield (Enid), OK - Kingfisher, OK",112707,0.9,2.7,0,Low,2022-03-24T07:00:00Z
+Gloucester County,51073,Virginia,37348,5,"Newport News City, VA - Hampton City, VA",531945,2,0.9,64.26,Low,2022-03-10T07:00:00Z
+Harrison County,48203,Texas,66553,485,"Harrison (Marshall), TX - Cass, TX",106433,NA,NA,210.36,NA,2022-07-07T07:00:00Z
+Owsley County,21189,Kentucky,4415,18,"Fayette (Lexington-Fayette), KY - Jessamine, KY",591673,1.5,5.1,0,Low,2022-05-12T07:00:00Z
+Tripp County,46123,South Dakota,5441,595,"Todd, SD - Tripp, SD",23783,0.5,4.2,147.03,Low,2022-03-03T07:00:00Z
